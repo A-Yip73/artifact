@@ -19,10 +19,11 @@
 ## 使用建议
 
 - **以 HTML 精读版为准。** 版式 PDF 由 BabelDOC 排版，它的译文是以精读版为参考重新生成的，个别措辞可能略有出入。
-- **版式 PDF 的已知局限：**
-  - 图片里的位图文字不翻译。
-  - 带圈数字 ①②③ 显示为 1 2 3。
-  - 附录 p99–102（横排年表、系统化图、资料表）保留日文，中文请看 HTML 精读版里的译表和对照。
+- **版式 PDF 里的图表：**
+  - 11 张位图表格已整表替换为中文；表9.2 行与行之间没有表格线，改为在日文旁加注中文。
+  - 48 张位图示意图保留原图，在每个日文标签旁加了红褐色的中文标注；个别字很小或很密的地方可能漏标或贴得较近，完整对照见 HTML 精读版。
+  - 附录 p99–102（横排年表、系统化图、资料表）已逐行替换为中文。
+  - 带圈数字 ①②③ 仍显示为 1 2 3（BabelDOC 解析限制）。
 - **疑点清单中涉及史实的判断**（年份、人名、发明者等）来自译者（Claude）的背景知识，只作核对线索，引用前请查证。
 - **本译文为机器翻译加自动自检，未经人工逐句审校。** 原文著作权归国立科学博物馆及作者所有，译文仅供学习和内部参考。
 
@@ -33,4 +34,6 @@
 - 原文 PDF 及其解密副本：请到国立科学博物馆官网获取原文，用 PyMuPDF 另存一份不加密的副本，放在 `work/source_decrypted.pdf`。
 - 各步骤的运行日志。
 
-处理顺序：`extract.py` → `glossary.py` → `translate.py` / `figures.py` → `polish.py` → `run_babeldoc.py` → `fix_titles.py` → `classify_doubts.py` → `qa.py` → `intro.py` → `build_html.py` → `export_pdf.js`。
+处理顺序：`extract.py` → `glossary.py` → `translate.py` / `figures.py` → `polish.py` → `run_babeldoc.py` → `fix_titles.py` → `overlay_figs.py`（位图表格整表替换、示意图加注中文）→ `appendix.py`（附录逐行替换）→ `make_dual.py`（原文页 + 中文页拼成双语版）→ `classify_doubts.py` → `qa.py` → `intro.py` → `build_html.py` → `export_pdf.js`。
+
+图表和附录用到的 Noto Sans CJK SC 完整字体没有放进仓库（约 16MB），可用 fontTools 从系统的 NotoSansCJK-Regular.ttc 导出 SC 字面，保存为 `work/fonts/NotoSansCJKsc-Regular.otf`；仓库里已有按实际用字裁剪的子集。
