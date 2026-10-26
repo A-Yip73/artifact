@@ -1,0 +1,701 @@
+﻿日文原词,英文/缩写,中文译名,类别,首次出现位置（页/段落）,出现段落数,首次出现处是否括注,备注
+臨床検査,clinical laboratory testing,临床检验,检验术语,p1（b0001）,174,否,全文统一译“临床检验”；仅在明确包括影像、生理功能检查的总括语境用“临床检查”。
+画像診断,diagnostic imaging,影像诊断,检验术语,p1（b0005）,17,是,变体：画像検査（影像检查）
+CT（コンピュータ断層撮影）,computed tomography,计算机断层扫描（CT）,方法与原理,p1（b0005）,29,是,变体：X線CT、コンピューター断層撮影。附录年表的Computer已在正误表中更正为Computed。
+超音波（エコー）,ultrasound / echography,超声（超声检查）,方法与原理,p1（b0005）,16,是,超音波画像装置译“超声成像设备/超声诊断仪”；エコー也指回波。
+免疫測定法,immunoassay,免疫测定（免疫分析）,方法与原理,p1（b0005）,102,是,变体：イムノアッセイ、免疫化学測定法。NMPA注册文件多写具体方法名，如“化学发光免疫分析法”。
+腫瘍マーカー,tumor marker,肿瘤标志物,疾病与标志物,p1（b0005）,27,是,
+検体,specimen / sample,样本,检验术语,p1（b0006）,89,是,统一用IVD/NMPA用语“样本”；中日同形异义词，勿译“检体”。
+保険収載,NHI listing,纳入医保（医保收录）,制度与法规,p1（b0006）,2,是,指列入日本健康保险诊疗报酬点数表。保険収載項目译“医保收录项目”。
+臨床化学,clinical chemistry,临床化学,检验术语,p1（b0016）,56,是,
+生化学（検査）,clinical biochemistry testing,生化检验,检验术语,p27（b0311）,13,是,变体：生化学検査、生化学検査項目（生化检验项目）
+自動分析機,automated analyzer,自动分析仪,仪器装置,p1（b0018）,55,是,变体：自動分析装置、自動分析計。临床化学语境可译“全自动生化分析仪”。
+自動血球計数装置,automated hematology analyzer,全自动血细胞分析仪（血细胞计数仪）,仪器装置,p1（b0020）,11,是,变体：自動血算計、血球計数装置、血算計、血球計数計
+抗原抗体反応,antigen-antibody reaction,抗原抗体反应,方法与原理,p1（b0022）,15,是,
+ラテックス凝集法,latex agglutination,胶乳凝集法,方法与原理,p1（b0024）,14,是,仪器自动定量时，NMPA常称“胶乳增强免疫比浊法”；目视玻片法称“胶乳凝集试验”。
+化学発光法,chemiluminescence,化学发光法,方法与原理,p1（b0024）,11,是,
+肝炎ウイルス,hepatitis virus,肝炎病毒,疾病与标志物,p1（b0026）,15,是,B型/C型肝炎ウイルス译乙型/丙型肝炎病毒（HBV/HCV）
+検体検査,specimen-based laboratory testing,样本检验,检验术语,p1（b0027）,33,是,与生体検査（生理功能检查）、画像検査相对，指采集血、尿等样本在实验室分析的检验。
+診療報酬,medical fee schedule,诊疗报酬,制度与法规,p1（b0013）,14,是,日本公共医疗保险对医疗行为统一定价的支付制度。变体：診療報酬点数。
+細菌・細胞観察,bacterial and cellular observation,细菌·细胞观察,其他,p4（b0097）,9,是,作者提出的临床检验“四大支柱”之一
+画像観察,image observation,影像观察,其他,p1（b0015）,12,是,四大支柱之一，即影像诊断
+物理計測,physical measurement,物理测量,其他,p1（b0015）,11,是,四大支柱之一，主要指生理功能检查；第10章又称“生体計測”。
+成分分析,component analysis,成分分析,其他,p1（b0015）,9,是,四大支柱之一，指标本成分的化学/免疫分析；第10章又称“化学分析”。
+伊藤道雄,Michio Ito,伊藤道雄,人名,p77（b0958）,1,是,本报告作者
+国立科学博物館産業技術史資料情報センター,"Center of the History of Japanese Industrial Technology, National Museum of Nature and Science",日本国立科学博物馆产业技术史资料信息中心,机构与企业,p3（b0065）,1,是,“技术系统化调查报告”丛书的发行机构
+三菱化成工業,Mitsubishi Kasei Corporation,三菱化成工业,机构与企业,p3（b0068）,2,是,1994年合并为三菱化学；LPIA胶乳自动化系统的开发方
+セラダイン社,,セラダイン公司,机构与企业,p3（b0069）,1,是,保留原文拼写；身份无法确证（Theradyne或Ceradyne?），列入疑点清单。
+三菱化学,Mitsubishi Chemical Corporation,三菱化学,机构与企业,p3（b0071）,7,是,
+ユカ・メディアス,"Yuka Medias Co., Ltd.",ユカ・メディアス（Yuka Medias）,机构与企业,p3（b0073）,1,是,三菱化学系诊断企业，无官方中文名；英文拼写未核实，列入疑点清单。
+三菱化学ヤトロン,"Mitsubishi Kagaku Iatron, Inc.",三菱化学Iatron,机构与企业,p3（b0074）,8,是,前身ヤトロン（Iatron Laboratories），1963年推出日本首个转氨酶试剂盒；后并入三菱化学美迪恩斯。变体：ヤトロン社、三菱化成・ヤトロン。
+日本臨床検査薬協会,Japan Association of Clinical Reagents Industries (JACRI),日本临床检验试剂协会,机构与企业,p3（b0077）,7,是,简称“臨薬協”
+三菱化学メディエンス,Mitsubishi Chemical Medience Corporation,三菱化学美迪恩斯,机构与企业,p3（b0078）,2,是,后更名为LSIメディエンス
+検討,study / evaluation,研究；探讨；评估（视语境）,其他,p4（b0091）,24,是,中日同形异义：意为研究、探讨、评估，不是中文的“检讨”。
+心電図,electrocardiogram (ECG),心电图,检验术语,p4（b0094）,14,是,
+陰極線管,cathode ray tube,阴极射线管,仪器装置,p4（b0095）,2,是,
+炭疽病（炭疽菌）,anthrax (Bacillus anthracis),炭疽（炭疽杆菌）,疾病与标志物,p4（b0093）,2,是,
+生理検査,physiological function test,生理功能检查,检验术语,p5（b0118）,1,是,诊疗报酬中称“生体検査”
+臨床検査室,clinical laboratory,临床实验室（检验科）,检验术语,p5（b0118）,53,否,变体：検査室、ラボ、臨床検査科、検査部
+レントゲン（検査）,X-ray radiography,X线摄影（X光检查）,方法与原理,,0,,日语以伦琴之名俗称X线检查；人名伦琴另列条目。
+MRI（核磁気共鳴画像）,magnetic resonance imaging,磁共振成像（MRI）,方法与原理,p5（b0120）,21,是,
+医療機器,medical device,医疗器械,制度与法规,p5（b0118）,27,是,勿译“医疗机器”，系日本薬機法规定的法定类别。
+外注,outsourcing,外送检验（委托检验）,检验术语,p5（b0116）,4,是,
+厚生労働省,"Ministry of Health, Labour and Welfare (MHLW)",日本厚生劳动省,机构与企业,p6（b0124）,3,是,
+保険償還,insurance reimbursement,医保报销（医保支付）,制度与法规,p6（b0124）,7,是,变体：保険適用（医保适用）
+保険点数,reimbursement points,医保点数,制度与法规,p6（b0124）,22,是,首次出现时注明：日本诊疗报酬点数，1点=10日元。文中简称“保点”。
+後期高齢者,late-stage elderly (75+),后期高龄者,制度与法规,p6（b0124）,1,是,指日本75岁以上人群，适用单独的医疗制度。
+薬事,pharmaceutical affairs,药事（注册审批）,制度与法规,p6（b0126）,3,是,薬事手続き译“药事注册手续”
+ヘモグロビン,hemoglobin (Hb),血红蛋白,试剂与分子,p17（b0223）,14,是,旧称“血色素”
+検体検査実施料,specimen test performance fee,样本检验实施费,制度与法规,p6（b0128）,1,,诊疗报酬点数表第3部第1节第1款
+検体検査判断料,specimen test interpretation fee,样本检验判断费,制度与法规,p6（b0128）,3,,医师判读结果的加算费用，按类别每月一次；文中简称“判断料”。
+尿・糞便等検査,urine and stool tests,尿液·粪便等检查,制度与法规,p6（b0128）,1,,诊疗报酬分类名
+血液学的検査,hematological tests,血液学检查,制度与法规,p6（b0128）,3,,诊疗报酬分类名
+生化学的検査（I）／（II）,biochemical tests (I)/(II),生化学检查（I）/（II）,制度与法规,p6（b0128）,2,,诊疗报酬分类名。（I）为常规生化，（II）主要为激素、肿瘤标志物等。
+免疫学的検査,immunological tests,免疫学检查,制度与法规,p6（b0128）,2,,诊疗报酬分类名
+微生物学的検査,microbiological tests,微生物学检查,制度与法规,p6（b0128）,1,,诊疗报酬分类名
+生体検査料,physiological examination fee,生体检查费,制度与法规,p6（b0128）,1,,
+診断穿刺・検体採取料,diagnostic puncture and specimen collection fee,诊断穿刺·样本采集费,制度与法规,p6（b0128）,1,,
+シンチグラム,scintigram,闪烁显像图,方法与原理,p6（b0128）,1,,
+ポジトロン,positron,正电子,其他,p6（b0128）,1,,此处指正电子发射断层成像
+基準値,reference interval,参考区间（参考值）,检验术语,p7（b0130）,3,是,中日同形异义：对应中国的“参考区间”，勿直译“基准值”。
+医薬品,pharmaceuticals,药品,制度与法规,p7（b0129）,8,是,日本的体外诊断试剂在法律上属于“体外診断用医薬品”
+静脈血採取料,venous blood collection fee,静脉采血费,制度与法规,p7（b0130）,1,是,
+採血管,blood collection tube,采血管,仪器装置,p7（b0130）,7,是,多指真空采血管。血清分離用採血管译“血清分离管”，抗凝固採血管译“抗凝管”。
+健康保険組合,health insurance society,健康保险组合,制度与法规,p7（b0130）,1,是,日本企业型医保的保险人
+臨床検査センター,commercial clinical laboratory,第三方医学检验实验室（检验中心）,机构与企业,p7（b0130）,7,是,变体：検査会社、検査センター。对应中国的独立医学实验室。
+保険外診療,non-covered care,自费诊疗（医保外诊疗）,制度与法规,p7（b0132）,1,是,日本原则上禁止混合诊疗，一旦含医保外项目，相关诊疗全部自费。
+診断薬,diagnostic reagent,诊断试剂,试剂与分子,p3（b0077）,21,否,变体：臨床検査薬、検査薬、体外診断薬（体外诊断试剂）
+人間ドック,comprehensive medical checkup (ningen dock),综合健康体检,制度与法规,p7（b0134）,2,是,日本特有的自费全面体检
+OTC検査,over-the-counter test,OTC检测（非处方自测）,检验术语,,0,,
+東京済生会中央病院,Tokyo Saiseikai Central Hospital,东京济生会中央医院,机构与企业,p7（b0144）,3,是,
+診療放射線技師,radiological technologist,诊疗放射线技师（放射技师）,制度与法规,p7（b0145）,5,是,日本国家资格
+臨床検査技師,medical technologist,临床检验技师,制度与法规,p7（b0145）,11,是,日本国家资格，可从事采血、超声、MRI等。
+臨床検査医学科,department of laboratory medicine,检验医学科,其他,p7（b0145）,1,是,变体：臨床検査科
+病理診断科,department of diagnostic pathology,病理诊断科,其他,p7（b0145）,1,是,
+生化学自動分析計,automated clinical chemistry analyzer,全自动生化分析仪,仪器装置,p7（b0145）,10,是,变体：生化学自動分析装置、生化学分析装置
+免疫化学測定装置,immunoassay analyzer,免疫分析仪,仪器装置,p7（b0145）,1,是,
+スパイロメーター,spirometer,肺功能仪（肺量计）,仪器装置,p7（b0145）,1,是,原文亦称“呼吸器計”
+大和市立病院,Yamato Municipal Hospital,大和市立医院,机构与企业,p8（b0148）,1,,
+慶應義塾大学病院,Keio University Hospital,庆应义塾大学医院,机构与企业,p8（b0148）,1,,
+大分大学医学部附属病院,Oita University Hospital,大分大学医学部附属医院,机构与企业,p8（b0146）,2,是,
+研修医,resident,住院医师（初期研修医）,其他,p8（b0148）,2,,日本毕业后两年临床研修期的医师
+製造販売業者,marketing authorization holder,上市许可持有人（制造销售业者）,制度与法规,p9（b0156）,1,是,日本薬機法下对产品上市负总责的企业资质
+生体現象計測,biophysical measurement,生理参数测量,检验术语,p9（b0156）,1,是,日本医疗器械统计分类名，指心电图机、血压计等。
+医用検体検査機器,medical specimen testing equipment,医用样本检验仪器,仪器装置,p9（b0158）,1,是,医疗器械统计分类名
+医師会,medical association,医师会,机构与企业,p9（b0159）,8,是,全国性组织为日本医師会（日本医师会，Japan Medical Association）
+自動搬送（検体搬送システム）,automated sample transport system,样本自动传输系统（检验流水线）,仪器装置,p9（b0159）,12,是,变体：検体搬送システム、搬送ライン
+一般社団法人,general incorporated association,一般社团法人,制度与法规,p9（b0159）,10,是,日本非营利法人形式
+日本医療機器産業連合会,Japan Federation of Medical Devices Associations (JFMDA),日本医疗器械产业联合会,机构与企业,p10（b0166）,2,是,
+家次恒,Hisashi Ietsugu,家次恒,人名,p10（b0168）,2,是,希森美康董事长
+日本臨床検査自動化学会,Japan Society for Clinical Laboratory Automation (JSCLA),日本临床检验自动化学会,机构与企业,p10（b0168）,2,是,
+LSIメディエンス,LSI Medience Corporation,LSI Medience,机构与企业,p10（b0169）,7,是,原三菱化学美迪恩斯，无官方中文名，保留英文。
+メディカルスキャニング,Medical Scanning,Medical Scanning,机构与企业,p10（b0170）,1,是,受托开展CT/MRI检查的影像中心运营商，无中文名
+病理診断,pathological diagnosis,病理诊断,检验术语,p7（b0145）,2,否,
+蛍光色素,fluorescent dye,荧光染料,试剂与分子,p11（b0173）,4,是,
+レーウェンフック,Antonie van Leeuwenhoek,列文虎克（Antonie van Leeuwenhoek）,人名,p11（b0177）,5,是,原文缩写为A.V. Leeuwenhoek
+単式顕微鏡,simple microscope,单式显微镜,仪器装置,p11（b0180）,1,,变体：単眼顕微鏡（指单透镜，不是“单目”）
+複眼式顕微鏡,compound microscope,复式显微镜,仪器装置,p11（b0177）,1,是,原文“複眼式”易误译为“复眼”，实指复合透镜。变体：複式顕微鏡。
+液浸法,immersion method,浸液法（油浸法）,方法与原理,p11（b0177）,1,是,
+色収差,chromatic aberration,色差,方法与原理,p11（b0177）,1,是,
+カール・ツァイス,Carl Zeiss,卡尔·蔡司（Carl Zeiss）,人名,p11（b0178）,1,是,Zeiss社译“蔡司公司”
+アッベ,Ernst Abbe,阿贝（Ernst Abbe）,人名,p11（b0178）,1,是,
+品質管理,quality management,质量管理,检验术语,p11（b0178）,7,是,多指企业生产质量管理，注意与“精度管理”区分。
+ルスカ,Ernst Ruska,鲁斯卡（Ernst Ruska）,人名,p11（b0179）,2,是,
+電子顕微鏡,electron microscope,电子显微镜,仪器装置,p11（b0179）,3,是,変体：透過型電子顕微鏡（透射电镜）、走査型電子顕微鏡（扫描电镜）
+分解能,resolution,分辨率,方法与原理,p11（b0179）,2,是,注意与色谱的“分離能（分离度）”区分
+濾過性病原体,filterable agent,滤过性病原体,疾病与标志物,p11（b0179）,1,是,病毒的旧称
+ルイ・パスツール,Louis Pasteur,路易·巴斯德（Louis Pasteur）,人名,p12（b0183）,1,是,
+ロベルト・コッホ,Heinrich Hermann Robert Koch,罗伯特·科赫（Robert Koch）,人名,p12（b0183）,1,是,
+滅菌法,sterilization,灭菌法,方法与原理,p12（b0183）,1,是,
+リスター,Joseph Lister,李斯特（Joseph Lister）,人名,p12（b0185）,1,是,
+抗生物質,antibiotics,抗生素,试剂与分子,p12（b0185）,6,是,变体：抗生剤
+ペニシリン,penicillin,青霉素,试剂与分子,p13（b0189）,1,是,
+ストレプトマイシン,streptomycin,链霉素,试剂与分子,p13（b0189）,1,是,
+同定,identification,鉴定,检验术语,p13（b0189）,16,是,中日同形异义：微生物“同定”即鉴定。同定検査译“鉴定试验”。
+薬剤感受性検査,antimicrobial susceptibility testing,药物敏感性试验（药敏试验）,检验术语,p13（b0189）,3,是,变体：感受性検査、抗生物質感受性試験
+耐性菌,drug-resistant bacteria,耐药菌,疾病与标志物,p14（b0193）,1,是,
+血液培養,blood culture,血培养,检验术语,p13（b0191）,2,,血液培養ボトル译“血培养瓶”
+孵卵器,incubator,培养箱（孵育箱）,仪器装置,p13（b0191）,1,,勿直译“孵卵器”
+グラム染色,Gram stain,革兰染色,方法与原理,p13（b0191）,1,,
+分離培養,isolation culture,分离培养,方法与原理,p13（b0191）,2,,
+好気培養／嫌気培養,aerobic/anaerobic culture,需氧培养/厌氧培养,方法与原理,,0,,
+速報,preliminary report,初步报告（初报）,检验术语,p13（b0191）,1,,微生物检验的分级报告
+夾雑菌,contaminating bacteria,杂菌,检验术语,p14（b0193）,1,是,
+感作,sensitization (coating),致敏（包被）,方法与原理,p14（b0197）,7,是,指将抗原或抗体固定在红细胞、胶乳等载体上。抗体感作微粒子译“抗体致敏微粒”。
+凝集反応,agglutination,凝集反应,方法与原理,p14（b0197）,6,是,
+遺伝子診断,genetic diagnosis,基因诊断,检验术语,p14（b0198）,3,是,
+相補性,complementarity,互补性,方法与原理,p14（b0199）,3,是,
+プライマー,primer,引物,试剂与分子,p14（b0199）,2,是,
+PCR（ポリメラーゼ連鎖反応）,polymerase chain reaction,聚合酶链式反应（PCR）,方法与原理,p14（b0199）,6,否,变体：遺伝子増幅（基因扩增）
+標識,label,标记,方法与原理,p14（b0197）,31,是,
+再現性,reproducibility / precision,重复性（精密度）,检验术语,p14（b0192）,7,是,日文多指精密度。同時再現性另列条目。
+組織病理検査,histopathological examination,组织病理学检查,检验术语,p11（b0178）,5,是,
+ウィルヒョウ,Rudolf Virchow,魏尔啸（Rudolf Virchow）,人名,p15（b0207）,2,是,
+細胞病理学,cellular pathology,细胞病理学,检验术语,p11（b0178）,2,是,
+体液疾病説,humoral theory,体液病理学说,其他,p15（b0207）,1,是,
+確定診断,definitive diagnosis,确诊（确定诊断）,检验术语,p15（b0207）,3,是,
+組織切片,tissue section,组织切片,检验术语,p15（b0208）,1,是,
+ヘマトキシリン-エオジン染色,hematoxylin-eosin stain,苏木精-伊红染色（HE染色）,方法与原理,,0,,
+ブッシュ（H. Busch）,H. Busch,H. Busch,人名,p15（b0208）,1,否,无通行中译名，保留原文拼写；HE染色发明者另有Wissowzky之说，列入疑点清单。
+ギムザ染色,Giemsa stain,吉姆萨染色,方法与原理,p15（b0208）,3,是,
+パーキン,William Henry Perkin,珀金（William Henry Perkin）,人名,p15（b0209）,1,是,
+モーブ,mauveine,苯胺紫,试剂与分子,p15（b0209）,1,是,
+固定,fixation,固定,方法与原理,p15（b0210）,11,是,
+フォルムアルデヒド,formaldehyde,甲醛,试剂与分子,p15（b0210）,1,是,水溶液即福尔马林
+グルタルアルデヒド,glutaraldehyde,戊二醛,试剂与分子,p15（b0212）,1,否,原文首处误作“グルタルアルデヒト”
+クロム酸,chromic acid,铬酸,试剂与分子,p15（b0210）,2,是,
+ピクリン酸,picric acid,苦味酸,试剂与分子,p15（b0210）,1,是,
+パラフィン包埋,paraffin embedding,石蜡包埋,方法与原理,,0,,原文作“パラフィン埋包物”
+クレブス,Edwin Klebs,克莱布斯（Edwin Klebs）,人名,p15（b0211）,1,是,
+なめし剤,tanning agent,鞣剂,试剂与分子,p15（b0212）,1,是,
+標識抗体,labeled antibody,标记抗体,试剂与分子,p16（b0215）,6,是,
+免疫グロブリン,immunoglobulin,免疫球蛋白（Ig）,试剂与分子,p16（b0215）,12,是,变体：イムノグロブリン
+エストロゲン・レセプター,estrogen receptor,雌激素受体（ER）,疾病与标志物,p16（b0215）,1,是,
+酵素標識,enzyme labeling,酶标记,方法与原理,p16（b0215）,4,是,
+基質,substrate,底物,试剂与分子,p16（b0215）,14,是,中日同形异义：酶学中指底物，勿译“基质”。
+暗視野,dark field,暗视野,方法与原理,p16（b0215）,1,是,
+免疫組織化学検査,immunohistochemistry,免疫组织化学检查（IHC）,检验术语,p16（b0216）,1,是,
+FISH法,fluorescence in situ hybridization,荧光原位杂交（FISH）,方法与原理,p16（b0216）,3,是,变体：FISHプローブ（FISH探针）
+免疫（する）,immunize,免疫（动物）,方法与原理,p1（b0004）,440,否,指用抗原免疫动物以制备抗体
+昭和大学藤が丘病院,Showa University Fujigaoka Hospital,昭和大学藤丘医院,机构与企业,p32（b0385）,1,是,
+ライカ マイクロシステムズ,Leica Microsystems,徕卡显微系统,机构与企业,,0,,
+血漿,plasma,血浆,检验术语,p17（b0222）,10,是,
+ヒューソン,William Hewson,休森（William Hewson）,人名,p17（b0222）,2,是,
+リンパ球,lymphocyte,淋巴细胞,检验术语,p17（b0222）,7,是,
+ドンネ,Alfred Donné,多内（Alfred Donné）,人名,p17（b0222）,1,是,
+エールリッヒ,Paul Ehrlich,埃尔利希（Paul Ehrlich）,人名,p17（b0224）,1,是,
+好中球,neutrophil,中性粒细胞,检验术语,p17（b0224）,3,是,
+好酸球,eosinophil,嗜酸性粒细胞,检验术语,p17（b0224）,2,是,
+好塩基球,basophil,嗜碱性粒细胞,检验术语,p17（b0224）,2,是,
+単球,monocyte,单核细胞,检验术语,p17（b0224）,3,是,
+ギムザ,Gustav Giemsa,吉姆萨（Gustav Giemsa）,人名,p15（b0208）,3,否,
+マラリア原虫,Plasmodium,疟原虫,疾病与标志物,p17（b0224）,1,是,
+白血球分画,leukocyte differential,白细胞分类计数,检验术语,p17（b0225）,1,是,
+血球計算盤,hemocytometer,血细胞计数板,仪器装置,p17（b0226）,3,是,变体：ノイバウエル盤（改良牛鲍尔计数板，Neubauer）
+コールター,Wallace H. Coulter,库尔特（Wallace H. Coulter）,人名,p17（b0227）,5,是,
+コールターカウンター,Coulter Counter,库尔特计数器,产品名,p17（b0227）,1,是,
+インピーダンス方式,electrical impedance method,电阻抗法,方法与原理,p17（b0227）,7,是,
+アパーチャー,aperture,小孔（微孔）,仪器装置,p17（b0227）,4,是,变体：細孔、オリフィス
+網赤血球,reticulocyte,网织红细胞,检验术语,p17（b0227）,2,是,
+日本血液製剤協会,Japan Blood Products Association,日本血液制剂协会,机构与企业,p32（b0392）,1,是,
+東亞特殊電機,Toa Tokushu Denki,东亚特殊电机,机构与企业,p18（b0231）,1,是,即现TOA株式会社，是希森美康的前身。原文初版误作“東亜”。
+CC-1001,CC-1001,CC-1001半自动血细胞计数仪,产品名,p18（b0235）,1,,1963年推出的日本国产首台血细胞计数仪
+フローサイトメーター,flow cytometer,流式细胞仪,仪器装置,p18（b0232）,10,是,变体：フローサイトメトリー（流式细胞术）
+モノクローナル抗体,monoclonal antibody,单克隆抗体,试剂与分子,p18（b0233）,15,是,
+CD抗原,cluster of differentiation antigen,CD抗原（分化簇抗原）,疾病与标志物,p55（b0692）,2,是,
+マクロファージ,macrophage,巨噬细胞,检验术语,p18（b0233）,1,是,
+シスメックス,Sysmex,希森美康,机构与企业,p19（b0242）,9,,
+ベックマンコールター,Beckman Coulter,贝克曼库尔特,机构与企业,p32（b0399）,1,否,前身为Coulter公司（库尔特公司）
+シース液,sheath fluid,鞘液,试剂与分子,p18（b0236）,1,,シースフロー译“鞘流”
+白血病の病形分類,leukemia classification,白血病分型,检验术语,p19（b0237）,2,是,变体：白血病タイピング検査（白血病免疫分型）
+iPS細胞,induced pluripotent stem cell,诱导多能干细胞（iPS细胞）,其他,p19（b0237）,1,是,
+シーメンス,Siemens,西门子,机构与企业,p20（b0244）,3,是,
+島津製作所,Shimadzu Corporation,岛津制作所,机构与企业,p20（b0244）,3,是,
+レントゲン,Wilhelm Conrad Röntgen,伦琴（Wilhelm Röntgen）,人名,p5（b0120）,4,否,
+透視法,fluoroscopy,X线透视,方法与原理,p20（b0247）,1,是,与“透過法”（X线摄片）相对
+タウシッグ,Helen B. Taussig,陶西格（Helen B. Taussig）,人名,p20（b0247）,1,是,原文拼作H.B.Tausig；将透视法起源归于此人存疑，列入疑点清单。
+光電子倍増管,photomultiplier tube,光电倍增管,仪器装置,p20（b0247）,1,是,p74作“光電子増倍管（フォトマル）”。p20透视语境照原文译“光电倍增管”，并在疑点清单指出实际应为影像增强器（image intensifier）。
+造影剤,contrast agent,造影剂,试剂与分子,p20（b0247）,5,否,
+クラウゼ,Paul Krause,克劳泽（Paul Krause）,人名,p20（b0248）,1,是,
+硫酸バリウム,barium sulfate,硫酸钡,试剂与分子,p20（b0248）,2,是,
+ヨウ素系造影剤,iodinated contrast agent,碘造影剂,试剂与分子,p20（b0249）,1,是,
+ウログラフィン,Urografin,泛影葡胺（Urografin）,产品名,p20（b0249）,1,是,
+フォルスマン,Werner Forssmann,福斯曼（Werner Forssmann）,人名,p20（b0250）,3,是,
+カテーテル,catheter,导管,仪器装置,p20（b0250）,6,是,
+狭心症,angina pectoris,心绞痛,疾病与标志物,p20（b0250）,3,是,
+心筋梗塞,myocardial infarction,心肌梗死,疾病与标志物,p20（b0250）,3,是,
+アルベルト・フォン・ケリカー,Albert von Kölliker,克利克（Albert von Kölliker）,人名,p20（b0251）,2,,
+コーマック,Allan M. Cormack,科马克（Allan M. Cormack）,人名,p21（b0253）,1,是,
+EMI社,EMI,EMI公司,机构与企业,p21（b0253）,2,是,
+ハウンズフィールド,Godfrey Hounsfield,豪斯菲尔德（Godfrey Hounsfield）,人名,p21（b0253）,2,是,附录年表误作Haunsfield
+東芝,Toshiba,东芝,机构与企业,p21（b0255）,4,是,
+ヘリカルCT,helical CT,螺旋CT,仪器装置,p21（b0255）,2,是,变体：スパイラルCT、ヘリカル・スキャン
+マルチスライスCT,multi-slice CT,多层螺旋CT（MSCT）,仪器装置,p21（b0255）,1,是,
+核磁気共鳴,nuclear magnetic resonance,核磁共振（NMR）,方法与原理,p21（b0256）,3,是,变体：NMR、核磁気共鳴法
+ダマディアン,Raymond V. Damadian,达马迪安（Raymond V. Damadian）,人名,p21（b0256）,1,是,
+超電導磁石,superconducting magnet,超导磁体,仪器装置,p21（b0256）,1,是,
+心臓病センター榊原病院,Sakakibara Heart Institute of Okayama,心脏病中心榊原医院,机构与企业,p33（b0414）,1,是,隶属社会医疗法人社团十全会
+プローブ,probe,探头,仪器装置,p22（b0261）,3,是,
+ドゥーシック,Karl Theo Dussik,杜西克（Karl Theo Dussik）,人名,p22（b0261）,1,是,
+ホウリー,Douglass H. Howry,霍利（Douglass H. Howry）,人名,p22（b0261）,1,是,
+Bモード,B-mode,B型模式（B超）,方法与原理,p22（b0261）,1,是,
+日本無線,"Japan Radio Co., Ltd. (JRC)",日本无线,机构与企业,p22（b0261）,1,是,
+ドプラー効果,Doppler effect,多普勒效应,方法与原理,p22（b0262）,1,是,
+カラードプラ法,color Doppler,彩色多普勒法,方法与原理,p22（b0262）,4,是,
+アロカ,Aloka,阿洛卡,机构与企业,p22（b0262）,1,是,现并入日立
+内視鏡,endoscope,内镜,仪器装置,p6（b0128）,9,,
+オリンパス,Olympus,奥林巴斯,机构与企业,p23（b0268）,6,是,
+胃カメラ,gastrocamera,胃内照相机（胃镜）,仪器装置,p23（b0268）,2,是,早期产品是前端装有相机的“胃照相机”，现日语泛指胃镜。
+シンドラー,Rudolf Schindler,申德勒（Rudolf Schindler）,人名,p23（b0268）,1,是,
+グラスファイバー,glass fiber,玻璃纤维（光导纤维）,仪器装置,p23（b0269）,1,是,
+鉗子,forceps,活检钳,仪器装置,p23（b0269）,1,是,
+ビデオスコープ,videoscope,电子内镜,仪器装置,p23（b0269）,1,是,
+Narrow band,narrow band imaging,窄带成像（NBI）,方法与原理,p23（b0269）,1,是,
+血圧計,sphygmomanometer,血压计,仪器装置,p23（b0274）,6,是,
+心電計,electrocardiograph,心电图机,仪器装置,p7（b0145）,16,是,变体：心電図計
+脳波計,electroencephalograph,脑电图仪,仪器装置,p23（b0274）,5,是,脳波译“脑电图/脑电波”
+パルスオキシメーター,pulse oximeter,脉搏血氧仪,仪器装置,p23（b0274）,7,是,
+ハーヴェー,William Harvey,哈维（William Harvey）,人名,p23（b0276）,1,是,
+ヘイルズ,Stephen Hales,黑尔斯（Stephen Hales）,人名,p24（b0279）,1,是,
+観血的血圧測定,invasive blood pressure measurement,有创血压测量,方法与原理,p24（b0279）,1,是,非観血的译“无创”
+リバロッチ,Scipione Riva-Rocci,里瓦-罗奇（Scipione Riva-Rocci）,人名,p24（b0279）,1,是,
+水銀血圧計,mercury sphygmomanometer,水银血压计,仪器装置,p24（b0279）,1,是,
+カフ,cuff,袖带,仪器装置,p24（b0279）,2,是,
+コロトコフ,Nikolai S. Korotkov,科罗特科夫（Nikolai S. Korotkov）,人名,p24（b0280）,2,是,
+バイタル・サイン,vital signs,生命体征,检验术语,p24（b0281）,1,是,
+クリティコン,Critikon,Criticon,机构与企业,p24（b0281）,1,是,照原文拼写；该公司通行拼写为Critikon，列入疑点清单。
+振動式（血圧計）,oscillometric method,示波法,方法与原理,p23（b0274）,6,否,
+アイントーフェン,Willem Einthoven,爱因托芬（Willem Einthoven）,人名,p24（b0285）,5,是,
+ホルタ心電計,Holter monitor,动态心电图仪（Holter）,仪器装置,p24（b0287）,5,,变体：ホルター心電計
+フクダ電子,Fukuda Denshi,福田电子,机构与企业,p25（b0289）,4,是,
+運動負荷心電図法,exercise stress ECG,运动负荷心电图,方法与原理,p25（b0290）,1,是,
+虚血性心疾患,ischemic heart disease,缺血性心脏病,疾病与标志物,p25（b0290）,1,是,
+マスター,Arthur M. Master,马斯特（Arthur M. Master）,人名,p25（b0290）,1,是,
+ホルタ（N.J. Holter）,Norman J. Holter,霍尔特（Norman J. Holter）,人名,p24（b0287）,6,,
+不整脈,arrhythmia,心律失常,疾病与标志物,p25（b0290）,1,是,
+ニトログリセリン,nitroglycerin,硝酸甘油,试剂与分子,p25（b0291）,1,是,
+バーガー,Hans Berger,伯格（Hans Berger）,人名,p25（b0293）,1,是,
+てんかん,epilepsy,癫痫,疾病与标志物,p25（b0295）,1,是,
+SPECT,single photon emission CT,单光子发射计算机断层成像（SPECT）,方法与原理,p25（b0297）,1,是,原文全称拼作Photo-Emission，应为Photon Emission
+fMRI,functional MRI,功能磁共振成像（fMRI）,方法与原理,p25（b0297）,10,是,
+認知症,dementia,痴呆（认知症）,疾病与标志物,p25（b0298）,1,是,
+小川誠,Seiji Ogawa,小川诚,人名,p26（b0301）,1,是,照原文；fMRI（BOLD）发现者通常记为小川诚二（Seiji Ogawa），疑为笔误，列入疑点清单。
+脱酸化ヘモグロビン,deoxyhemoglobin,脱氧血红蛋白,试剂与分子,p26（b0301）,1,是,
+PET,positron emission tomography,正电子发射断层成像（PET）,方法与原理,p26（b0301）,1,是,
+酸素飽和度,oxygen saturation,血氧饱和度,检验术语,p26（b0304）,5,是,
+日本光電,Nihon Kohden,日本光电,机构与企业,p26（b0304）,1,是,
+青柳卓雄,Takuo Aoyagi,青柳卓雄,人名,p26（b0304）,1,是,脉搏血氧仪的发明者
+酸素電極,oxygen electrode,氧电极,仪器装置,p26（b0305）,2,是,
+酸素分圧,partial pressure of oxygen,氧分压,检验术语,p26（b0305）,1,是,
+ベッドサイドモニタ,bedside monitor,床旁监护仪,仪器装置,p27（b0309）,1,是,
+睡眠時無呼吸症候群,sleep apnea syndrome,睡眠呼吸暂停综合征,疾病与标志物,p27（b0309）,1,是,
+凝固線溶,coagulation and fibrinolysis,凝血与纤溶,检验术语,p27（b0311）,5,是,变体：血液凝固・線溶；線溶マーカー（纤溶标志物）
+比色法,colorimetry,比色法,方法与原理,p27（b0313）,2,是,
+シェヴレイユ,Michel Eugène Chevreul,谢弗勒尔（Michel Eugène Chevreul）,人名,p27（b0314）,1,是,
+シェーレ,Carl Wilhelm Scheele,舍勒（Carl Wilhelm Scheele）,人名,p27（b0314）,1,是,
+生気論,vitalism,活力论,其他,p27（b0314）,1,是,
+ヴェーラー,Friedrich Wöhler,维勒（Friedrich Wöhler）,人名,p27（b0314）,1,是,
+フィッシャー（E. Fischer）,Emil Fischer,费歇尔（Emil Fischer）,人名,p27（b0314）,2,是,
+プリン,purine,嘌呤,试剂与分子,p23（b0269）,3,否,变体：プリン体
+アルブミン,albumin,白蛋白,试剂与分子,p27（b0315）,6,是,
+フィブリン,fibrin,纤维蛋白,试剂与分子,p27（b0315）,3,是,
+ホッペ＝ザイラー,Felix Hoppe-Seyler,霍佩-赛勒（Felix Hoppe-Seyler）,人名,p27（b0315）,1,是,
+臨床検査法提要,,《临床检查法提要》,其他,p28（b0318）,6,是,日本经典临床检验手册（金井泉编），书名可保留原文。
+精度,precision / accuracy,精密度/准确度（视语境）,检验术语,p16（b0216）,28,否,日语泛指测量的可靠程度，“測定精度”需按语境译。
+定性試験,qualitative test,定性试验,检验术语,p28（b0318）,3,是,
+尿試験紙,urine test strip,尿试纸条,试剂与分子,p28（b0318）,1,是,
+容量分析,volumetric analysis,容量分析（滴定分析）,方法与原理,p28（b0318）,3,是,
+光電比色計,photoelectric colorimeter,光电比色计,仪器装置,p28（b0319）,16,是,变体：光電光度計
+呈色反応,color reaction,显色反应,方法与原理,p28（b0320）,7,是,
+比色計,colorimeter,比色计,仪器装置,p28（b0319）,20,是,
+ランベルト・ベールの法則,Lambert-Beer law,朗伯-比尔定律,方法与原理,p28（b0322）,1,是,
+デュボスク比色計,Duboscq colorimeter,杜博斯克比色计,仪器装置,p28（b0326）,2,,
+日立製作所,"Hitachi, Ltd.",日立制作所,机构与企业,p28（b0327）,5,,
+日立ハイテクサイエンス,Hitachi High-Tech Science,日立高新技术科学,机构与企业,p34（b0448）,1,是,
+光路長,optical path length,光程,方法与原理,p28（b0322）,1,是,
+吸光度,absorbance,吸光度,方法与原理,p28（b0328）,31,,
+吸光係数,absorption coefficient,吸光系数,方法与原理,p29（b0330）,3,是,原文有一处误作“吸光計数”。モル吸光係数译“摩尔吸光系数”。
+吸収スペクトル,absorption spectrum,吸收光谱,方法与原理,p26（b0307）,3,是,
+Somogyi-Nelson法,Somogyi-Nelson method,Somogyi-Nelson法,方法与原理,p29（b0332）,1,是,
+還元糖,reducing sugar,还原糖,试剂与分子,p29（b0333）,2,是,
+モリブデン青,molybdenum blue,钼蓝,试剂与分子,p29（b0335）,1,是,
+グルコースオキシダーゼ法,glucose oxidase method,葡萄糖氧化酶法,方法与原理,p29（b0336）,2,是,注意：原文例2所列反应实为己糖激酶法（HK法），翻译时建议加译注说明。
+ヘキソキナーゼ,hexokinase,己糖激酶,试剂与分子,p29（b0341）,2,是,
+G-6-Pデヒドロゲナーゼ,glucose-6-phosphate dehydrogenase,葡萄糖-6-磷酸脱氢酶（G6PD）,试剂与分子,p29（b0342）,1,是,
+ATP／ADP,ATP / ADP,三磷酸腺苷/二磷酸腺苷,试剂与分子,,0,,原文误作“アデノシン-3-リン酸/-2-リン酸”，应为三磷酸腺苷/二磷酸腺苷。
+NADP+／NADPH,NADP+ / NADPH,烟酰胺腺嘌呤二核苷酸磷酸（氧化型/还原型）,试剂与分子,,0,,
+基質特異性,substrate specificity,底物特异性,方法与原理,p29（b0341）,1,是,
+分光光度計,spectrophotometer,分光光度计,仪器装置,p29（b0341）,20,是,
+回折格子,diffraction grating,衍射光栅,仪器装置,p29（b0341）,1,是,
+石英セル,quartz cell,石英比色皿,仪器装置,p29（b0341）,1,是,
+機器分析,instrumental analysis,仪器分析,方法与原理,p30（b0345）,7,是,
+錯イオン,complex ion,络离子（配离子）,试剂与分子,p30（b0346）,1,是,
+溶解度積,solubility product,溶度积,方法与原理,p30（b0346）,1,是,
+ポーラログラフィー,polarography,极谱法,方法与原理,p30（b0346）,1,是,
+フィッシャー（H. Fischer）,H. Fischer,H. Fischer,人名,p27（b0314）,2,否,身份不明（或为Hans Fischer），保留原文拼写，列入疑点清单。
+赤外分光光度計,infrared spectrophotometer,红外分光光度计,仪器装置,p30（b0346）,3,是,变体：赤外分光器
+ラマン分光器,Raman spectrometer,拉曼光谱仪,仪器装置,p30（b0346）,1,是,
+質量分析計,mass spectrometer,质谱仪,仪器装置,p30（b0346）,3,是,变体：質量分析法（质谱法）
+パーセル,Edward M. Purcell,珀塞尔（Edward M. Purcell）,人名,p30（b0347）,1,是,
+ブロッホ,Felix Bloch,布洛赫（Felix Bloch）,人名,p30（b0347）,1,是,
+ツヴェット,Mikhail S. Tsvet,茨维特（Mikhail S. Tsvet）,人名,p30（b0348）,1,是,原文作MS.T. Twett，年表作Tswett
+吸着クロマトグラフィー,adsorption chromatography,吸附色谱法,方法与原理,p30（b0348）,1,是,
+マーティン,Archer J. P. Martin,马丁（Archer J. P. Martin）,人名,p30（b0348）,1,是,
+分配クロマトグラフィー,partition chromatography,分配色谱法,方法与原理,p30（b0348）,1,是,
+ガスクロマトグラフィー,gas chromatography,气相色谱法,方法与原理,p30（b0348）,2,是,
+液体クロマトグラフィー,liquid chromatography,液相色谱法,方法与原理,p30（b0348）,6,是,
+超臨界流体クロマトグラフィー,supercritical fluid chromatography,超临界流体色谱法,方法与原理,p30（b0348）,1,是,
+電位差分析,potentiometry,电位分析法,方法与原理,p30（b0352）,1,是,变体：電位差滴定計（电位滴定仪）
+天然物化学,natural product chemistry,天然产物化学,其他,p30（b0353）,2,是,
+高速液体クロマトグラフィー,high-performance liquid chromatography,高效液相色谱（HPLC）,方法与原理,p30（b0362）,1,是,
+LC/MS,liquid chromatography-mass spectrometry,液相色谱-质谱联用（LC-MS）,方法与原理,p30（b0348）,6,否,变体：LC/MS/MS、LC-MS/MS（串联质谱）
+夾雑物,interfering substance,干扰物质（共存杂质）,检验术语,p30（b0363）,1,是,
+分離能,resolution (separation),分离度,方法与原理,p30（b0363）,1,是,
+日本臨床検査医学会,Japanese Society of Laboratory Medicine,日本临床检验医学会（JSLM）,机构与企业,p32（b0393）,3,是,前身日本臨床病理学会（日本临床病理学会），机关刊物《臨床病理》
+診療報酬点数表,medical fee schedule,诊疗报酬点数表,制度与法规,p10（b0164）,2,是,
+GHQ,General Headquarters,驻日盟军总司令部（GHQ）,机构与企业,p35（b0460）,3,是,
+東京第一病院,Tokyo First Hospital,东京第一医院,机构与企业,p35（b0460）,1,是,现国立国际医疗研究中心（原文称“国立医療センター”）
+中央検査室,central clinical laboratory,中心检验室（中央检验科）,其他,p35（b0460）,5,是,
+医局,ikyoku (medical department),医局（临床科室）,制度与法规,p35（b0460）,2,是,日本大学医院按科室组织医师的体制
+A/G比,albumin/globulin ratio,白球比（A/G）,检验术语,p35（b0460）,2,是,
+血漿タンパク質,plasma protein,血浆蛋白,试剂与分子,p35（b0460）,6,是,
+グロブリン,globulin,球蛋白,试剂与分子,p16（b0215）,17,是,
+フィブリノーゲン,fibrinogen,纤维蛋白原,试剂与分子,p35（b0459）,2,是,
+クレアチニン,creatinine,肌酐,疾病与标志物,p35（b0459）,5,是,
+コレステロール,cholesterol,胆固醇,疾病与标志物,p35（b0460）,2,是,
+東京厚生年金病院,Tokyo Kosei Nenkin Hospital,东京厚生年金医院,机构与企业,p35（b0460）,4,是,现东京新宿医疗中心（東京新宿メディカルセンター）
+除蛋白,deproteinization,除蛋白（去蛋白）,方法与原理,p35（b0461）,13,是,变体：除タンパク
+酸性フォスファターゼ,acid phosphatase,酸性磷酸酶（ACP）,疾病与标志物,p83（b1016）,1,是,
+アルカリフォスファターゼ,alkaline phosphatase,碱性磷酸酶（ALP）,疾病与标志物,p35（b0462）,9,是,变体：AL-P
+コリンエステラーゼ,cholinesterase,胆碱酯酶（ChE）,疾病与标志物,p35（b0462）,1,是,
+アミノトランスフェラーゼ,aminotransferase,氨基转移酶（转氨酶）,疾病与标志物,p35（b0462）,5,是,变体：トランスアミナーゼ
+アミラーゼ,amylase,淀粉酶,疾病与标志物,p35（b0462）,3,是,旧称ジアスターゼ
+レート法,rate method,速率法,方法与原理,p35（b0462）,13,是,变体：反応速度法、レートアッセイ
+乳酸脱水素酵素,lactate dehydrogenase,乳酸脱氢酶（LD/LDH）,疾病与标志物,p35（b0462）,3,是,
+クレアチンリン酸キナーゼ,creatine (phospho)kinase,肌酸激酶（CK）,疾病与标志物,p35（b0462）,2,是,旧称CPK
+オートアナライザー,AutoAnalyzer,AutoAnalyzer自动分析仪,产品名,p36（b0463）,15,是,Technicon公司于1957年推出的连续流动式分析仪（附录年表误作1950年）
+用手法,manual method,手工法,方法与原理,p36（b0463）,18,是,
+寄生虫卵検査,ova and parasite test,寄生虫卵检查,检验术语,p36（b0468）,1,是,
+ビリルビン,bilirubin,胆红素,疾病与标志物,p36（b0469）,1,是,
+非侵襲,non-invasive,无创,检验术语,p22（b0262）,2,是,
+逸脱酵素,leakage enzyme,逸脱酶,检验术语,p37（b0482）,2,是,首次出现时括注“组织损伤后释放入血的酶”。变体：漏出酵素。
+非蛋白性窒素,non-protein nitrogen,非蛋白氮（NPN）,检验术语,p37（b0484）,2,是,
+総タンパク,total protein,总蛋白,检验术语,p37（b0486）,2,是,
+分画,fraction,组分,检验术语,p17（b0225）,6,否,如蛋白电泳组分
+クレアチン,creatine,肌酸,试剂与分子,p35（b0462）,3,否,
+ヘモグロビンA1c,hemoglobin A1c,糖化血红蛋白（HbA1c）,疾病与标志物,p38（b0491）,1,是,变体：糖化ヘモグロビン
+フラミンガム,Framingham,弗雷明汉（心脏研究）,其他,p38（b0493）,1,是,
+ケン化,saponification,皂化,方法与原理,p38（b0493）,1,是,
+酵素法,enzymatic method,酶法,方法与原理,p38（b0493）,8,是,
+中性脂質,triglycerides,甘油三酯（中性脂肪）,疾病与标志物,p38（b0493）,1,是,
+リポタンパク質,lipoprotein,脂蛋白,疾病与标志物,p38（b0493）,1,是,LDL/HDL译“低/高密度脂蛋白”
+炎光分析法,flame photometry,火焰光度法,方法与原理,p38（b0495）,1,是,
+原子吸光分析法,atomic absorption spectrometry,原子吸收光谱法,方法与原理,p38（b0495）,1,是,
+電極法,ion-selective electrode method,电极法（离子选择电极法）,方法与原理,p27（b0309）,2,是,
+キレート法,chelate method,螯合比色法,方法与原理,p38（b0495）,1,是,
+無機リン,inorganic phosphorus,无机磷,疾病与标志物,p38（b0495）,2,是,
+膵炎,pancreatitis,胰腺炎,疾病与标志物,p38（b0497）,1,是,
+AST（GOT）,aspartate aminotransferase,天门冬氨酸氨基转移酶（AST）,疾病与标志物,p35（b0462）,5,否,旧称GOT
+ALT（GPT）,alanine aminotransferase,丙氨酸氨基转移酶（ALT）,疾病与标志物,p35（b0462）,5,否,旧称GPT
+γ-グルタミルトランスフェラーゼ,gamma-glutamyltransferase,γ-谷氨酰转移酶（GGT）,疾病与标志物,,0,,
+検査キット,test kit,检测试剂盒,试剂与分子,p38（b0498）,9,是,变体：試薬キット、キット試薬
+感度,sensitivity,灵敏度,检验术语,p1（b0006）,70,是,需区分分析灵敏度和诊断灵敏度，注11中的定义为诊断灵敏度。
+特異度,specificity,特异度,检验术语,p38（b0501）,4,是,特異性译“特异性”（多指分析特异性）
+衛生検査技師,sanitary laboratory technician,卫生检验技师,制度与法规,p39（b0506）,4,是,日本旧国家资格
+臨床検査技師、衛生検査技師等に関する法律,Act on Clinical Laboratory Technicians,《临床检验技师、卫生检验技师等相关法律》,制度与法规,p39（b0506）,1,是,
+緩衝液,buffer,缓冲液,试剂与分子,p39（b0508）,7,是,
+要時調製,prepared before use,临用现配,检验术语,p39（b0508）,4,是,
+シグマ社,Sigma,西格玛（Sigma）,机构与企业,p39（b0508）,1,否,现Sigma-Aldrich
+特級グレード,guaranteed reagent grade,特级纯（GR级）,试剂与分子,p39（b0508）,1,是,
+凍結乾燥,lyophilization,冷冻干燥,方法与原理,p39（b0508）,3,是,
+分注器,dispenser,分液器（加液器）,仪器装置,p39（b0509）,2,否,
+フローセル,flow cell,流动池,仪器装置,p39（b0509）,7,否,
+キュベット,cuvette,比色杯（反应杯）,仪器装置,p39（b0510）,23,是,变体：反応容器、反応セル
+栄研化学,Eiken Chemical,荣研化学,机构与企业,p41（b0536）,3,是,
+ディスポーザブル,disposable,一次性,其他,p40（b0516）,7,否,变体：ディスポ
+テルモ,Terumo,泰尔茂,机构与企业,p40（b0517）,4,是,前身为仁丹テルモ（仁丹泰尔茂）
+HIV,human immunodeficiency virus,人类免疫缺陷病毒（HIV）,疾病与标志物,p40（b0517）,5,是,
+ピペットチップ,pipette tip,吸头,仪器装置,p40（b0517）,1,是,
+米国臨床化学会（AACC）,American Association for Clinical Chemistry,美国临床化学协会（AACC）,机构与企业,p40（b0519）,1,是,2023年更名为ADLM；原文全称作Clinical Chemists
+臨床検査（雑誌）,Rinsho Kensa,《临床检查》杂志,其他,p1（b0001）,174,否,医学书院刊行的日文期刊
+ピペッティング,pipetting,移液（加样）,方法与原理,p42（b0544）,4,是,
+テクニコン社,Technicon,Technicon公司,机构与企业,p42（b0547）,7,是,无通行中文名
+コンティニュアス・フロー方式,continuous flow,连续流动式,方法与原理,p44（b0558）,1,是,
+サンプラー,sampler,进样器（样本盘）,仪器装置,p42（b0548）,2,是,
+透析器,dialyzer,透析器,仪器装置,p43（b0550）,1,是,
+標準品,calibrator / standard,校准品（标准品）,试剂与分子,p28（b0322）,2,是,
+SMA6/60、SMA12/60,SMA,SMA6/60、SMA12/60,产品名,p43（b0552）,1,否,Technicon公司的多通道分析仪
+二波長分光光度計156形,Hitachi Model 156,日立156型双波长分光光度计,产品名,p44（b0556）,1,是,
+オートサンプラー,autosampler,自动进样器,仪器装置,p44（b0556）,1,是,
+オークリッジ国立研究所,Oak Ridge National Laboratory,橡树岭国家实验室,机构与企业,,0,,
+セントリフィケム,CentrifiChem,CentrifiChem离心式分析仪,产品名,p44（b0558）,2,是,
+ディスクリート方式,discrete method,分立式,方法与原理,p44（b0559）,4,否,
+遠心方式,centrifugal method,离心式,方法与原理,p44（b0558）,7,是,
+トランスファーディスク,transfer disc,转移盘,仪器装置,p44（b0558）,1,是,
+キャリーオーバー,carryover,携带污染,检验术语,p44（b0559）,4,是,指样本残留被带入下一样本
+ロッシュ,Roche,罗氏,机构与企业,p44（b0559）,5,是,
+COBAS,COBAS,COBAS,产品名,p44（b0559）,3,是,罗氏分析仪系列
+日立400形,Hitachi 400,日立400型自动分析仪,产品名,p45（b0567）,3,,
+日本電子,JEOL,日本电子（JEOL）,机构与企业,p44（b0560）,3,是,
+コンタミ,contamination,污染,检验术语,p44（b0561）,3,是,
+日立706D形,Hitachi 706D,日立706D型自动分析仪,产品名,p45（b0568）,2,,
+日立ハイテクノロジーズ,Hitachi High-Technologies,日立高新技术,机构与企业,p56（b0705）,6,是,现日立高新（Hitachi High-Tech）
+後分光方式,post-dispersion optics,后分光方式,方法与原理,p48（b0600）,1,是,
+エンドポイント法,end-point method,终点法,方法与原理,p46（b0569）,8,是,
+2波長測光,dual-wavelength photometry,双波长测光,方法与原理,p46（b0572）,3,是,
+マイコン,microcomputer,微型计算机,其他,p25（b0291）,4,是,
+チェインコンベア方式,chain conveyor system,链式传送方式,仪器装置,p46（b0570）,4,是,
+日立705形,Hitachi 705,日立705型自动分析仪,产品名,p46（b0573）,19,是,1980年推出，首创转盘式完全随机检测
+日立736形,Hitachi 736,日立736型自动分析仪,产品名,,0,,
+ターンテーブル,turntable,反应转盘,仪器装置,p46（b0574）,7,是,
+ブランク,blank,空白,检验术语,p46（b0569）,1,是,
+ランダムアクセス方式,random access,随机检测（随机存取）方式,方法与原理,p47（b0583）,6,否,检测项目可按样本自由组合
+アプリケーション,application,检测参数,检验术语,p46（b0572）,2,是,指分析仪上某检测项目的测定条件设定。
+液面センサー,liquid level sensor,液面探测器,仪器装置,p48（b0601）,2,是,
+撹拌翼,stirring paddle,搅拌棒,仪器装置,p48（b0601）,6,是,
+シリンジポンプ,syringe pump,注射泵,仪器装置,p48（b0604）,1,是,
+ピペッター,pipettor,加样针,仪器装置,p48（b0604）,1,是,
+ディスペンサー,dispenser,分配器,仪器装置,p48（b0604）,2,是,
+試薬保冷庫,reagent refrigerator,试剂冷藏仓,仪器装置,p53（b0665）,1,是,
+バックグラウンド補正,background correction,背景校正,方法与原理,p48（b0600）,1,是,
+反応停止液,stop solution,终止液,试剂与分子,p49（b0612）,2,是,
+第2試薬,second reagent,第二试剂（R2）,试剂与分子,p46（b0576）,1,是,第1試薬译“第一试剂（R1）”
+モリブデン酸還元法,molybdate reduction method,钼酸盐还原法,方法与原理,p49（b0622）,1,是,
+Jaffe法,Jaffe method,Jaffe法（苦味酸法）,方法与原理,p49（b0622）,1,是,
+界面活性剤,surfactant,表面活性剂,试剂与分子,p49（b0622）,5,是,
+日立7070形,Hitachi 7070,日立7070型自动分析仪,产品名,,0,,
+賦形剤,excipient,赋形剂,试剂与分子,p51（b0632）,2,是,
+安定化剤,stabilizer,稳定剂,试剂与分子,p51（b0635）,2,是,
+耐熱酵素,thermostable enzyme,耐热酶,试剂与分子,p51（b0639）,2,是,
+液状試薬,liquid reagent,液体试剂,试剂与分子,p51（b0641）,1,是,
+有効期限,expiration date,有效期,制度与法规,p51（b0638）,1,是,
+ステップモーター,stepping motor,步进电机,仪器装置,p51（b0645）,1,是,
+クロスコンタミ,cross-contamination,交叉污染,检验术语,p51（b0646）,2,是,指试剂之间的污染
+免疫比濁法,immunoturbidimetry,免疫比浊法,方法与原理,p51（b0647）,2,是,
+プロゾーン,prozone,前带现象（钩状效应）,检验术语,p52（b0648）,6,是,变体：抗原過剰域、プロゾーン現象。中国IVD常称“HOOK效应”。
+非特異反応,non-specific reaction,非特异性反应,检验术语,p52（b0648）,9,是,
+COBAS INTEGRA 800,COBAS INTEGRA 800,COBAS INTEGRA 800,产品名,,0,,
+偽陽性／偽陰性,false positive/negative,假阳性/假阴性,检验术语,,0,,
+専用試薬,dedicated reagent,专用试剂（配套试剂）,试剂与分子,p52（b0660）,4,是,
+薬事法／薬機法,Pharmaceutical Affairs Law / PMD Act,药事法/药机法,制度与法规,,0,,2014年起旧药事法更名为薬機法，全称《医药品、医疗器械等的质量、有效性及安全性确保等相关法律》。
+サーベイ,external quality assessment survey,室间质评（质量调查）,检验术语,p52（b0664）,5,是,变体：医師会サーベイ
+標準物質,reference material,标准物质,试剂与分子,p53（b0665）,3,是,
+バイオマジェスティ,BioMajesty,BioMajesty,产品名,p53（b0666）,1,是,日本电子的生化分析仪系列
+血算,complete blood count,血常规（全血细胞计数）,检验术语,p7（b0145）,6,否,
+ヘマトクリット,hematocrit,红细胞压积（HCT）,检验术语,p53（b0670）,1,是,
+白血球3分類,3-part WBC differential,白细胞三分类,检验术语,p53（b0670）,1,是,五分类同理
+ウィントローブ,Maxwell M. Wintrobe,温特罗布（Maxwell M. Wintrobe）,人名,p54（b0672）,1,是,
+赤血球恒数,red cell indices,红细胞指数（MCV、MCH、MCHC）,检验术语,p54（b0672）,1,是,
+前方散乱／側方散乱,forward/side scatter,前向散射光/侧向散射光,方法与原理,,0,,
+溶血剤,lysing reagent,溶血剂,试剂与分子,p54（b0673）,2,是,
+幼弱顆粒球,immature granulocyte,未成熟粒细胞（IG）,检验术语,p54（b0673）,1,是,
+幼弱血小板,immature platelet,未成熟血小板,检验术语,p54（b0673）,1,是,
+破砕赤血球,fragmented red cell,破碎红细胞,检验术语,p54（b0673）,1,是,
+基準法,reference method,参考方法,检验术语,p54（b0684）,2,是,中日同形异义，勿译“基准法”
+カットオフ,cut-off,cut-off值（临界值）,检验术语,p54（b0686）,1,是,
+スキャッタグラム,scattergram,散点图,检验术语,p55（b0700）,1,,
+スクリーニング検査,screening test,筛查试验,检验术语,p55（b0694）,2,是,
+和光純薬工業,Wako Pure Chemical Industries,和光纯药工业,机构与企业,p56（b0712）,1,是,现富士胶片和光纯药
+富士経済,Fuji Keizai,富士经济,机构与企业,p56（b0716）,5,是,日本市场调研机构
+電気泳動,electrophoresis,电泳,方法与原理,p57（b0722）,3,是,
+可変領域,variable region,可变区,试剂与分子,p57（b0730）,1,是,
+2量体／5量体,dimer/pentamer,二聚体/五聚体,试剂与分子,,0,,
+利根川進,Susumu Tonegawa,利根川进,人名,p57（b0730）,1,是,
+特異抗体,specific antibody,特异性抗体,试剂与分子,p57（b0732）,4,是,
+架橋,cross-linking,交联,方法与原理,p58（b0735）,2,是,
+ジェンナー,Edward Jenner,詹纳（Edward Jenner）,人名,p58（b0736）,1,是,
+血清療法,serum therapy,血清疗法,方法与原理,p58（b0736）,2,是,
+ベーリング,Emil von Behring,贝林（Emil von Behring）,人名,p58（b0736）,1,是,
+北里柴三郎,Kitasato Shibasaburo,北里柴三郎,人名,p58（b0736）,1,是,
+抗体療法,antibody therapy,抗体疗法,方法与原理,p58（b0736）,3,是,变体：抗体医薬（抗体药物）
+ワッセルマン反応,Wassermann reaction,华氏反应,方法与原理,,0,,
+ガラス板法,slide method,玻片法,方法与原理,p58（b0738）,1,是,梅毒血清学试验
+スピロヘーター,spirochete,螺旋体,疾病与标志物,p58（b0738）,1,是,
+カルジオリピン,cardiolipin,心磷脂,试剂与分子,p58（b0738）,1,是,
+交差反応,cross-reaction,交叉反应,检验术语,p58（b0738）,5,是,
+CRP,C-reactive protein,C反应蛋白（CRP）,疾病与标志物,p58（b0739）,4,是,
+毛細管混合法,capillary precipitation test,毛细管混合法（毛细管沉淀试验）,方法与原理,p58（b0739）,3,是,CRP的早期检测法。
+ティレット,William S. Tillett,蒂利特（William S. Tillett）,人名,p58（b0739）,1,否,
+フランシス,Thomas Francis Jr.,弗朗西斯（Thomas Francis Jr.）,人名,p58（b0739）,1,是,
+肺炎双球菌,Streptococcus pneumoniae,肺炎双球菌（肺炎链球菌）,疾病与标志物,p58（b0739）,1,是,
+C-糖鎖,C-polysaccharide,C多糖,试剂与分子,,0,,
+抗血清,antiserum,抗血清,试剂与分子,p58（b0739）,1,是,
+ホモジニアスイムノアッセイ,homogeneous immunoassay,均相免疫测定,方法与原理,p58（b0740）,8,是,变体：ホモジニアス法
+レーザーネフェロメトリー,laser nephelometry,激光散射比浊法,方法与原理,p58（b0741）,4,是,
+検量線,calibration curve,校准曲线（标准曲线）,检验术语,p58（b0741）,12,是,
+血球凝集法,hemagglutination,红细胞凝集法（血凝法）,方法与原理,p59（b0743）,5,是,
+ラントシュタイナー,Karl Landsteiner,兰德斯坦纳（Karl Landsteiner）,人名,p59（b0743）,1,是,
+ABO血液型,ABO blood group,ABO血型,检验术语,p59（b0743）,1,是,
+日本赤十字社,Japanese Red Cross Society,日本红十字会,机构与企业,p59（b0743）,6,是,
+リウマチ因子,rheumatoid factor,类风湿因子（RF）,疾病与标志物,p59（b0744）,3,是,
+自己抗体,autoantibody,自身抗体,疾病与标志物,p59（b0744）,2,是,
+スライド・テスト,slide test,玻片试验,方法与原理,p59（b0744）,5,是,
+ヒト絨毛性ゴナドトロピン,human chorionic gonadotropin,人绒毛膜促性腺激素（hCG）,疾病与标志物,p59（b0744）,2,是,
+フィブリン分解産物（FDP）,fibrin/fibrinogen degradation products,纤维蛋白（原）降解产物（FDP）,疾病与标志物,p59（b0744）,2,否,
+担体,carrier,载体,试剂与分子,p59（b0745）,2,是,
+PA法（ゼラチン粒子凝集法）,particle agglutination,明胶颗粒凝集法（PA法）,方法与原理,p59（b0746）,2,是,
+酵素免疫測定法（EIA）,enzyme immunoassay,酶免疫测定（EIA）,方法与原理,p59（b0747）,23,是,变体：酵素免疫法
+ヘテロジニアス法,heterogeneous immunoassay,非均相免疫测定,方法与原理,p59（b0748）,3,是,变体：ヘテロジニアスイムノアッセイ
+サンドイッチ法,sandwich method,夹心法,方法与原理,p60（b0750）,7,是,变体：サンドイッチアッセイ
+ヤロー,Rosalyn S. Yalow,雅洛（Rosalyn S. Yalow）,人名,p60（b0752）,9,是,
+バーソン,Solomon A. Berson,伯森（Solomon A. Berson）,人名,p60（b0752）,1,是,
+ラジオイムノアッセイ,radioimmunoassay,放射免疫测定（RIA）,方法与原理,p60（b0751）,45,是,
+放射性同位元素,radioisotope,放射性同位素,试剂与分子,p6（b0128）,11,,变体：ラジオアイソトープ
+インスリン抵抗性,insulin resistance,胰岛素抵抗,疾病与标志物,p60（b0753）,1,是,
+ガストリン,gastrin,胃泌素,疾病与标志物,p60（b0754）,4,是,
+検出限界,limit of detection,检出限,检验术语,p60（b0754）,4,是,
+B/F分離,bound/free separation,B/F分离（结合/游离分离）,方法与原理,p62（b0780）,11,是,
+競合法,competitive method,竞争法,方法与原理,p60（b0755）,7,是,
+ホルマザン,formazan,甲臜,试剂与分子,p61（b0762）,1,是,
+半減期,half-life,半衰期,其他,p61（b0778）,3,是,
+ポリエチレングリコール,polyethylene glycol,聚乙二醇（PEG）,试剂与分子,p62（b0783）,1,是,
+固相法,solid-phase method,固相法,方法与原理,p62（b0783）,1,是,
+希釈再検,dilution retest,稀释复检,检验术语,p62（b0781）,1,是,
+精度管理,quality control,质量控制（质控）,检验术语,p62（b0785）,8,是,中日同形异义：检验科的“精度管理”即质量控制（室内质控、室间质评），勿直译。
+上清,supernatant,上清液,检验术语,p62（b0785）,1,是,
+ペルオキシダーゼ,peroxidase,过氧化物酶（POD/HRP）,试剂与分子,p63（b0792）,3,是,
+インキュベート,incubate,孵育,方法与原理,p63（b0792）,1,是,
+立体障害,steric hindrance,空间位阻,方法与原理,p63（b0795）,4,是,
+チロシン,tyrosine,酪氨酸,试剂与分子,p63（b0795）,2,是,
+ELISA,enzyme-linked immunosorbent assay,酶联免疫吸附测定（ELISA）,方法与原理,p64（b0797）,1,是,
+マイクロプレート,microplate,微孔板,仪器装置,p64（b0797）,2,是,
+同時再現性,within-run precision,批内精密度,检验术语,p64（b0797）,1,是,中日表述差异，勿直译“同时再现性”
+形質細胞,plasma cell,浆细胞,检验术语,p64（b0800）,2,是,
+ポリクローナル抗体,polyclonal antibody,多克隆抗体,试剂与分子,p64（b0800）,3,是,
+黄体形成ホルモン（LH）,luteinizing hormone,黄体生成素（LH）,疾病与标志物,p64（b0801）,4,是,
+卵胞刺激ホルモン（FSH）,follicle-stimulating hormone,卵泡刺激素（FSH）,疾病与标志物,p64（b0801）,3,是,
+甲状腺刺激ホルモン（TSH）,thyroid-stimulating hormone,促甲状腺激素（TSH）,疾病与标志物,p64（b0801）,5,是,
+ケーラー,Georges J. F. Köhler,科勒（Georges J. F. Köhler）,人名,p64（b0802）,2,是,
+ミルスタイン,César Milstein,米尔斯坦（César Milstein）,人名,p64（b0802）,2,是,
+骨髄腫細胞,myeloma cell,骨髓瘤细胞,试剂与分子,p64（b0804）,3,是,
+ハイブリドーマ,hybridoma,杂交瘤,试剂与分子,p64（b0806）,3,是,
+サイトカイン,cytokine,细胞因子,疾病与标志物,p65（b0819）,4,是,
+関節リウマチ,rheumatoid arthritis,类风湿关节炎,疾病与标志物,p65（b0819）,1,是,
+α-フェトプロテイン（AFP）,alpha-fetoprotein,甲胎蛋白（AFP）,疾病与标志物,p67（b0843）,8,是,
+LPIA-1,LPIA-1,LPIA-1胶乳免疫分析仪,产品名,p67（b0848）,1,,三菱化成1983年推出
+乳化重合,emulsion polymerization,乳液聚合,方法与原理,p67（b0847）,1,是,
+S/N,signal-to-noise ratio,信噪比,检验术语,p69（b0865）,3,是,
+F（ab'）2フラグメント,F(ab')2 fragment,F(ab')2片段,试剂与分子,,0,,Fc译“Fc段”
+吸収剤,absorbent,吸收剂,试剂与分子,p69（b0867）,2,是,
+コロイド,colloid,胶体,其他,p69（b0862）,5,是,
+凝固促進剤,clot activator,促凝剂,试剂与分子,p70（b0872）,1,是,
+血球分離剤,separating gel,分离胶,试剂与分子,p70（b0872）,1,是,
+カルボキシル化ラテックス,carboxylated latex,羧基化胶乳,试剂与分子,p70（b0872）,1,是,
+抗ストレプトリジン-O,anti-streptolysin O,抗链球菌溶血素O（ASO）,疾病与标志物,p70（b0878）,1,是,
+OEM,original equipment manufacturer,OEM（代工贴牌供货）,其他,p70（b0877）,3,是,
+CEA（ガン胎児性抗原）,carcinoembryonic antigen,癌胚抗原（CEA）,疾病与标志物,p71（b0880）,4,是,
+β2マイクログロブリン,beta-2 microglobulin,β2-微球蛋白,疾病与标志物,,0,,
+フェリチン,ferritin,铁蛋白,疾病与标志物,p71（b0880）,1,是,
+Dダイマー,D-dimer,D-二聚体,疾病与标志物,p71（b0880）,1,是,变体：D-ダイマー
+便潜血,fecal occult blood,粪便隐血,疾病与标志物,p71（b0880）,3,是,
+ジゴキシン,digoxin,地高辛,试剂与分子,p71（b0880）,1,是,
+PK-300,PK-300,PK-300全自动酶免分析系统,产品名,p71（b0885）,1,是,
+三洋化成,Sanyo Chemical Industries,三洋化成工业,机构与企业,p71（b0885）,1,是,
+アボット,Abbott,雅培,机构与企业,p71（b0885）,9,是,
+IMx,IMx,IMx,产品名,p71（b0885）,6,是,雅培1988年推出的酶免分析仪
+AxSYM,AxSYM,AxSYM,产品名,p72（b0889）,1,否,
+ルミノール,luminol,鲁米诺,试剂与分子,p72（b0892）,1,是,
+量子収率,quantum yield,量子产率,方法与原理,p72（b0892）,4,是,
+Quenching（消光）,quenching,猝灭（淬灭）,方法与原理,p72（b0892）,4,是,
+ウィークス,Ian Weeks,Ian Weeks,人名,p72（b0893）,1,是,无通行中译名
+アクリジニウムエステル,acridinium ester,吖啶酯,试剂与分子,p72（b0893）,5,是,
+CLIA,chemiluminescent immunoassay,化学发光免疫测定（CLIA）,方法与原理,p72（b0895）,8,是,注意与美国法规CLIA'88区分
+CLEIA,chemiluminescent enzyme immunoassay,化学发光酶免疫测定（CLEIA）,方法与原理,p72（b0898）,6,是,
+ルミパルス,Lumipulse,Lumipulse,产品名,p72（b0900）,8,是,富士瑞必欧的化学发光系统，变体：ルミパルス・フォルテ（Lumipulse Forte）
+富士レビオ,Fujirebio,富士瑞必欧,机构与企业,p72（b0900）,8,是,
+エンハンサー,enhancer,增强剂,试剂与分子,p72（b0900）,1,是,
+AMPPD,AMPPD,AMPPD,试剂与分子,p72（b0900）,5,是,"金刚烷基1,2-二氧杂环丁烷磷酸酯类化学发光底物"
+ECL,electrochemiluminescence,电化学发光免疫测定（ECL）,方法与原理,p73（b0904）,4,是,
+ルテニウムキレート,ruthenium chelate,钌络合物（三联吡啶钌）,试剂与分子,,0,,
+トリプロピルアミン,tripropylamine,三丙胺（TPA）,试剂与分子,p73（b0906）,1,是,
+ルシフェリン,luciferin,荧光素（萤火虫荧光素）,试剂与分子,p74（b0915）,1,是,勿与fluorescein混淆，必要时译“虫荧光素”
+ルシフェラーゼ,luciferase,荧光素酶,试剂与分子,p74（b0915）,2,是,
+遺伝子組み換え,genetic recombination,基因重组,方法与原理,p74（b0915）,2,是,
+光電子増倍管,photomultiplier tube,光电倍增管,仪器装置,p74（b0917）,4,是,变体：フォトマル
+フォトンカウンター,photon counter,光子计数器,仪器装置,p74（b0917）,2,是,
+蛍光測光,fluorometry,荧光测定,方法与原理,p74（b0925）,2,是,
+迷光,stray light,杂散光,方法与原理,p74（b0922）,2,是,
+アーキテクト,ARCHITECT,ARCHITECT,产品名,p75（b0930）,2,是,雅培免疫分析系统
+磁性微粒子,magnetic microparticle,磁性微粒,试剂与分子,p75（b0934）,2,是,
+リンカー,linker,连接子,试剂与分子,p75（b0936）,2,是,
+エクルーシス,Elecsys,Elecsys,产品名,p76（b0940）,1,是,罗氏电化学发光系统
+変動係数,coefficient of variation,变异系数（CV）,检验术语,p76（b0946）,2,是,
+飛び値,outlier,离群值,检验术语,p76（b0942）,1,是,
+セントコア,Centocor,森托科,机构与企业,p77（b0956）,1,是,
+CA19-9,carbohydrate antigen 19-9,糖类抗原19-9（CA19-9）,疾病与标志物,p77（b0956）,3,是,
+CA125,cancer antigen 125,糖类抗原125（CA125）,疾病与标志物,p77（b0956）,2,是,
+ヘイブン,Kendall F. Haven,Kendall F. Haven,人名,p79（b0978）,1,是,无通行中译名
+高峰譲吉,Jokichi Takamine,高峰让吉,人名,p79（b0981）,1,是,
+アドレナリン,adrenaline,肾上腺素,疾病与标志物,p79（b0981）,2,是,
+成長ホルモン（GH）,growth hormone,生长激素（GH）,疾病与标志物,p35（b0460）,4,否,
+副甲状腺ホルモン（PTH）,parathyroid hormone,甲状旁腺激素（PTH）,疾病与标志物,p80（b0984）,1,是,
+副腎皮質刺激ホルモン（ACTH）,adrenocorticotropic hormone,促肾上腺皮质激素（ACTH）,疾病与标志物,p80（b0984）,2,是,
+ヒト胎盤性ラクトーゲン（hPL）,human placental lactogen,人胎盘催乳素（hPL）,疾病与标志物,p80（b0984）,1,是,
+アルギニンバソプレシン（AVP）,arginine vasopressin,精氨酸加压素（AVP）,疾病与标志物,p80（b0984）,1,是,
+甲状腺ホルモン,thyroid hormone,甲状腺激素,疾病与标志物,p80（b0984）,4,是,triiodothyronine译“三碘甲状腺原氨酸（T3）”
+副腎皮質ホルモン,adrenocortical hormone,肾上腺皮质激素,疾病与标志物,p80（b0985）,3,是,
+TRH,thyrotropin-releasing hormone,促甲状腺激素释放激素（TRH）,疾病与标志物,p81（b0989）,1,是,
+ギルマン,Roger Guillemin,吉耶曼（Roger Guillemin）,人名,p81（b0989）,1,是,
+シャリー,Andrew V. Schally,沙利（Andrew V. Schally）,人名,p81（b0989）,1,是,
+視床下部,hypothalamus,下丘脑,其他,p81（b0989）,1,是,
+ハプテン,hapten,半抗原,试剂与分子,p81（b0991）,2,是,
+キャリア（ハプテン）,carrier protein,载体蛋白,试剂与分子,p81（b0991）,5,是,与“キャリア（病毒携带者）”同形，需区分
+コンジュゲート,conjugate,偶联物,试剂与分子,p81（b0991）,2,是,
+キャリア（ウイルス）,carrier,病毒携带者,疾病与标志物,p1（b0005）,26,否,与“キャリア（ハプテン）”同形，需区分
+輸血後肝炎,post-transfusion hepatitis,输血后肝炎,疾病与标志物,p82（b1004）,3,是,
+HBs抗原,hepatitis B surface antigen,乙肝表面抗原（HBsAg）,疾病与标志物,p82（b1005）,1,是,
+ウインドウ・ピリオド,window period,窗口期,检验术语,p82（b1007）,1,是,
+NAT試験,nucleic acid amplification test,核酸检测（NAT）,方法与原理,p82（b1007）,2,是,原文英文误作Nuclear Amplification Test
+プール,pooling,混样（合并检测）,检验术语,p82（b1007）,1,是,
+ヘルパーT細胞,helper T cell,辅助性T细胞,检验术语,p83（b1009）,1,是,
+免疫不全症候群（AIDS）,acquired immunodeficiency syndrome,获得性免疫缺陷综合征（AIDS）,疾病与标志物,p83（b1009）,1,是,
+成分血液製剤,blood component products,成分血制品,其他,p83（b1011）,1,是,
+自家輸血,autologous transfusion,自体输血,其他,p83（b1011）,1,是,
+悪性新生物,malignant neoplasm,恶性肿瘤,疾病与标志物,p83（b1013）,1,是,
+ベンスジョーンズ蛋白,Bence Jones protein,本周蛋白,疾病与标志物,p83（b1016）,1,是,
+絨毛上皮腫,choriocarcinoma,绒毛膜癌,疾病与标志物,p83（b1016）,1,是,
+正診率,diagnostic accuracy,诊断准确率,检验术语,p83（b1016）,2,是,
+アベレフ,Garri I. Abelev,阿贝列夫（Garri I. Abelev）,人名,p83（b1017）,1,是,
+平井、西,"Hidematsu Hirai, Shinzo Nishi",平井、西,人名,,0,,原文只有姓氏，照原文；全名（平井秀松、西信三）系推定，列入疑点清单。
+宮内庁,Imperial Household Agency,宫内厅,机构与企业,p84（b1020）,1,是,
+PSA,prostate-specific antigen,前列腺特异性抗原（PSA）,疾病与标志物,p84（b1021）,3,是,
+FDA,US Food and Drug Administration,美国食品药品监督管理局（FDA）,机构与企业,p84（b1021）,1,是,
+抗原特異IgE抗体,allergen-specific IgE,特异性IgE抗体（sIgE）,疾病与标志物,p85（b1027）,1,是,
+レアギン,reagin,反应素,试剂与分子,p85（b1028）,1,是,
+石坂公成,Kimishige Ishizaka,石坂公成,人名,p85（b1028）,1,是,与夫人石坂照子共同发现IgE
+アレルゲン,allergen,变应原（过敏原）,疾病与标志物,p85（b1028）,1,是,
+肥満細胞,mast cell,肥大细胞,检验术语,p85（b1028）,1,是,易误译为“肥胖细胞”
+ヒスタミン,histamine,组胺,试剂与分子,p85（b1028）,1,是,
+スギ花粉,Japanese cedar pollen,日本柳杉花粉,疾病与标志物,p85（b1028）,1,是,
+RAST法,radioallergosorbent test,放射变应原吸附试验（RAST）,方法与原理,p85（b1029）,1,是,
+CAPシステム,CAP system,ImmunoCAP系统,产品名,p85（b1029）,1,是,
+蛍光酵素抗体法,fluorescence enzyme immunoassay,荧光酶免疫法（FEIA）,方法与原理,p85（b1029）,1,是,
+プラスミン,plasmin,纤溶酶,试剂与分子,p85（b1031）,1,是,
+BNP,brain natriuretic peptide,B型利钠肽（脑钠肽，BNP）,疾病与标志物,p85（b1032）,3,是,
+寒川賢治,Kenji Kangawa,寒川贤治,人名,p85（b1034）,1,是,
+中尾一和,Kazuwa Nakao,中尾一和,人名,p85（b1034）,1,是,
+日本医師会臨床検査精度管理調査,JMA external quality assessment survey,日本医师会临床检验质量控制调查（室间质评）,制度与法规,p88（b1076）,1,是,通称“医師会サーベイ”，始于1967年
+ISO13485,ISO 13485,ISO 13485,制度与法规,p88（b1082）,2,否,医疗器械质量管理体系标准
+査察,inspection,现场检查,制度与法规,p88（b1083）,1,是,
+日本臨床検査標準協議会,Japanese Committee for Clinical Laboratory Standards,日本临床检验标准协议会（JCCLS）,机构与企业,p89（b1086）,1,是,
+ISO15189,ISO 15189,ISO 15189,制度与法规,p89（b1087）,1,是,医学实验室质量和能力认可标准
+再診料,revisit fee,复诊费,制度与法规,p90（b1096）,1,是,
+高知医科大学,Kochi Medical School,高知医科大学,机构与企业,p91（b1103）,1,是,现高知大学医学部
+佐々木匡秀,Masahide Sasaki,佐佐木匡秀,人名,p91（b1103）,1,是,世界首套检验样本传输系统的构建者
+ザ・ベルトラインシステム,The Belt Line System,The Belt Line System,产品名,p91（b1103）,1,是,1981年建成，世界首套医院检验样本传输系统
+ラック,rack,样本架,仪器装置,p21（b0254）,5,否,
+電子カルテ,electronic medical record,电子病历,其他,p92（b1107）,3,是,
+ホストコンピュータ,host computer,主机（LIS服务器）,其他,p90（b1099）,2,是,
+シーメンスヘルスケア・ダイアグノスティックス,Siemens Healthcare Diagnostics,西门子医学诊断,机构与企业,p93（b1130）,1,是,
+アプティオ,Aptio Automation,Aptio Automation,产品名,p93（b1130）,1,是,
+CLIA'88,Clinical Laboratory Improvement Amendments of 1988,《临床实验室改进修正案》（CLIA'88）,制度与法规,,0,,
+CAP検査室認証プログラム,CAP Laboratory Accreditation Program,美国病理学家协会（CAP）实验室认可,制度与法规,p93（b1117）,1,否,
+失敗学,failure studies,失败学,其他,p94（b1141）,3,是,
+畑村洋太郎,Yotaro Hatamura,畑村洋太郎,人名,p94（b1141）,2,是,
+バイオマーカー,biomarker,生物标志物,疾病与标志物,p95（b1160）,2,是,
+項目パネル,test panel,检测组合（panel）,检验术语,p95（b1158）,4,是,
+オミクス,omics,组学,方法与原理,p96（b1164）,1,是,
+インフォームドコンセント,informed consent,知情同意,制度与法规,p96（b1163）,1,是,
+除外診断,rule-out diagnosis,排除诊断,检验术语,p96（b1166）,1,是,
+イムノクロマト,immunochromatography,免疫层析,方法与原理,p97（b1171）,1,是,
+POCT,point-of-care testing,即时检验（POCT）,检验术语,p97（b1171）,1,是,原文英文作Point Of Care，漏了Testing
+プロトロンビン時間（PT）,prothrombin time,凝血酶原时间（PT）,检验术语,p35（b0462）,6,否,
+活性型部分トロンボプラスチン時間（APTT）,activated partial thromboplastin time,活化部分凝血活酶时间（APTT）,检验术语,p97（b1173）,1,是,
+日本分析機器工業会,Japan Analytical Instruments Manufacturers' Association,日本分析仪器工业会（JAIMA）,机构与企业,p98（b1183）,1,是,
+堀場製作所,HORIBA,堀场制作所,机构与企业,p98（b1191）,1,是,
+ファイバースコープ,fiberscope,纤维内镜,仪器装置,,0,,
+パパニコロー染色,Papanicolaou stain,巴氏染色,方法与原理,,0,,
+細胞診,cytology,细胞学检查,检验术语,,0,,
+蛍光抗体法,fluorescent antibody technique,荧光抗体法,方法与原理,,0,,
+酵素抗体法,enzyme-labeled antibody method,酶标抗体法,方法与原理,p85（b1029）,1,否,
+P.Lauterbur,Paul Lauterbur,劳特伯（Paul Lauterbur）,人名,,0,,
+K.F. Mullis,Kary B. Mullis,穆利斯（Kary B. Mullis）,人名,,0,,原文年表缩写有误，通行写法为Kary B. Mullis
+シータス社,Cetus Corporation,Cetus公司,机构与企业,,0,,
+Welch Allyn,Welch Allyn,伟伦,机构与企业,,0,,
+健康保険法,Health Insurance Act,《健康保险法》,制度与法规,,0,,
+筋電計,electromyograph,肌电图仪,仪器装置,,0,,
+カプセル内視鏡,capsule endoscope,胶囊内镜,仪器装置,,0,,
+クルックス管,Crookes tube,克鲁克斯管,仪器装置,,0,,
+トレッドミル,treadmill,运动平板（跑步机）,仪器装置,,0,,
+自動DNAシークエンサー,automated DNA sequencer,自动DNA测序仪,仪器装置,,0,,
+ベクトン・ディッキンソン,"Becton, Dickinson and Company",碧迪医疗（BD）,机构与企业,,0,,

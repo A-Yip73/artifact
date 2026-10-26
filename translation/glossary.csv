@@ -1,0 +1,701 @@
+﻿日文,中文,英文,类别,首次出现页,状态,备注
+臨床検査,临床检验,clinical laboratory testing,检验术语,1,确定,全文统一译“临床检验”；仅在明确包括影像、生理功能检查的总括语境用“临床检查”。
+画像診断,影像诊断,diagnostic imaging,检验术语,1,确定,变体：画像検査（影像检查）
+CT（コンピュータ断層撮影）,计算机断层扫描（CT）,computed tomography,方法与原理,1,确定,变体：X線CT、コンピューター断層撮影。附录年表的Computer已在正误表中更正为Computed。
+超音波（エコー）,超声（超声检查）,ultrasound / echography,方法与原理,1,确定,超音波画像装置译“超声成像设备/超声诊断仪”；エコー也指回波。
+免疫測定法,免疫测定（免疫分析）,immunoassay,方法与原理,1,确定,变体：イムノアッセイ、免疫化学測定法。NMPA注册文件多写具体方法名，如“化学发光免疫分析法”。
+腫瘍マーカー,肿瘤标志物,tumor marker,疾病与标志物,1,确定,
+検体,样本,specimen / sample,检验术语,1,确定,统一用IVD/NMPA用语“样本”；中日同形异义词，勿译“检体”。
+保険収載,纳入医保（医保收录）,NHI listing,制度与法规,1,确定,指列入日本健康保险诊疗报酬点数表。保険収載項目译“医保收录项目”。
+臨床化学,临床化学,clinical chemistry,检验术语,1,确定,
+生化学（検査）,生化检验,clinical biochemistry testing,检验术语,1,确定,变体：生化学検査、生化学検査項目（生化检验项目）
+自動分析機,自动分析仪,automated analyzer,仪器装置,1,确定,变体：自動分析装置、自動分析計。临床化学语境可译“全自动生化分析仪”。
+自動血球計数装置,全自动血细胞分析仪（血细胞计数仪）,automated hematology analyzer,仪器装置,1,确定,变体：自動血算計、血球計数装置、血算計、血球計数計
+抗原抗体反応,抗原抗体反应,antigen-antibody reaction,方法与原理,1,确定,
+ラテックス凝集法,胶乳凝集法,latex agglutination,方法与原理,1,确定,仪器自动定量时，NMPA常称“胶乳增强免疫比浊法”；目视玻片法称“胶乳凝集试验”。
+化学発光法,化学发光法,chemiluminescence,方法与原理,1,确定,
+肝炎ウイルス,肝炎病毒,hepatitis virus,疾病与标志物,1,确定,B型/C型肝炎ウイルス译乙型/丙型肝炎病毒（HBV/HCV）
+検体検査,样本检验,specimen-based laboratory testing,检验术语,1,确定,与生体検査（生理功能检查）、画像検査相对，指采集血、尿等样本在实验室分析的检验。
+診療報酬,诊疗报酬,medical fee schedule,制度与法规,1,确定,日本公共医疗保险对医疗行为统一定价的支付制度。变体：診療報酬点数。
+細菌・細胞観察,细菌·细胞观察,bacterial and cellular observation,其他,1,确定,作者提出的临床检验“四大支柱”之一
+画像観察,影像观察,image observation,其他,1,确定,四大支柱之一，即影像诊断
+物理計測,物理测量,physical measurement,其他,1,确定,四大支柱之一，主要指生理功能检查；第10章又称“生体計測”。
+成分分析,成分分析,component analysis,其他,1,确定,四大支柱之一，指标本成分的化学/免疫分析；第10章又称“化学分析”。
+伊藤道雄,伊藤道雄,Michio Ito,人名,1,确定,本报告作者
+国立科学博物館産業技術史資料情報センター,日本国立科学博物馆产业技术史资料信息中心,"Center of the History of Japanese Industrial Technology, National Museum of Nature and Science",机构与企业,3,确定,“技术系统化调查报告”丛书的发行机构
+三菱化成工業,三菱化成工业,Mitsubishi Kasei Corporation,机构与企业,3,确定,1994年合并为三菱化学；LPIA胶乳自动化系统的开发方
+セラダイン社,セラダイン公司,,机构与企业,3,确定,保留原文拼写；身份无法确证（Theradyne或Ceradyne?），列入疑点清单。
+三菱化学,三菱化学,Mitsubishi Chemical Corporation,机构与企业,3,确定,
+ユカ・メディアス,ユカ・メディアス（Yuka Medias）,"Yuka Medias Co., Ltd.",机构与企业,3,确定,三菱化学系诊断企业，无官方中文名；英文拼写未核实，列入疑点清单。
+三菱化学ヤトロン,三菱化学Iatron,"Mitsubishi Kagaku Iatron, Inc.",机构与企业,3,确定,前身ヤトロン（Iatron Laboratories），1963年推出日本首个转氨酶试剂盒；后并入三菱化学美迪恩斯。变体：ヤトロン社、三菱化成・ヤトロン。
+日本臨床検査薬協会,日本临床检验试剂协会,Japan Association of Clinical Reagents Industries (JACRI),机构与企业,3,确定,简称“臨薬協”
+三菱化学メディエンス,三菱化学美迪恩斯,Mitsubishi Chemical Medience Corporation,机构与企业,3,确定,后更名为LSIメディエンス
+検討,研究；探讨；评估（视语境）,study / evaluation,其他,4,确定,中日同形异义：意为研究、探讨、评估，不是中文的“检讨”。
+心電図,心电图,electrocardiogram (ECG),检验术语,4,确定,
+陰極線管,阴极射线管,cathode ray tube,仪器装置,4,确定,
+炭疽病（炭疽菌）,炭疽（炭疽杆菌）,anthrax (Bacillus anthracis),疾病与标志物,4,确定,
+生理検査,生理功能检查,physiological function test,检验术语,5,确定,诊疗报酬中称“生体検査”
+臨床検査室,临床实验室（检验科）,clinical laboratory,检验术语,5,确定,变体：検査室、ラボ、臨床検査科、検査部
+レントゲン（検査）,X线摄影（X光检查）,X-ray radiography,方法与原理,5,确定,日语以伦琴之名俗称X线检查；人名伦琴另列条目。
+MRI（核磁気共鳴画像）,磁共振成像（MRI）,magnetic resonance imaging,方法与原理,5,确定,
+医療機器,医疗器械,medical device,制度与法规,5,确定,勿译“医疗机器”，系日本薬機法规定的法定类别。
+外注,外送检验（委托检验）,outsourcing,检验术语,5,确定,
+厚生労働省,日本厚生劳动省,"Ministry of Health, Labour and Welfare (MHLW)",机构与企业,6,确定,
+保険償還,医保报销（医保支付）,insurance reimbursement,制度与法规,6,确定,变体：保険適用（医保适用）
+保険点数,医保点数,reimbursement points,制度与法规,6,确定,首次出现时注明：日本诊疗报酬点数，1点=10日元。文中简称“保点”。
+後期高齢者,后期高龄者,late-stage elderly (75+),制度与法规,6,确定,指日本75岁以上人群，适用单独的医疗制度。
+薬事,药事（注册审批）,pharmaceutical affairs,制度与法规,6,确定,薬事手続き译“药事注册手续”
+ヘモグロビン,血红蛋白,hemoglobin (Hb),试剂与分子,6,确定,旧称“血色素”
+検体検査実施料,样本检验实施费,specimen test performance fee,制度与法规,6,确定,诊疗报酬点数表第3部第1节第1款
+検体検査判断料,样本检验判断费,specimen test interpretation fee,制度与法规,6,确定,医师判读结果的加算费用，按类别每月一次；文中简称“判断料”。
+尿・糞便等検査,尿液·粪便等检查,urine and stool tests,制度与法规,6,确定,诊疗报酬分类名
+血液学的検査,血液学检查,hematological tests,制度与法规,6,确定,诊疗报酬分类名
+生化学的検査（I）／（II）,生化学检查（I）/（II）,biochemical tests (I)/(II),制度与法规,6,确定,诊疗报酬分类名。（I）为常规生化，（II）主要为激素、肿瘤标志物等。
+免疫学的検査,免疫学检查,immunological tests,制度与法规,6,确定,诊疗报酬分类名
+微生物学的検査,微生物学检查,microbiological tests,制度与法规,6,确定,诊疗报酬分类名
+生体検査料,生体检查费,physiological examination fee,制度与法规,6,确定,
+診断穿刺・検体採取料,诊断穿刺·样本采集费,diagnostic puncture and specimen collection fee,制度与法规,6,确定,
+シンチグラム,闪烁显像图,scintigram,方法与原理,6,确定,
+ポジトロン,正电子,positron,其他,6,确定,此处指正电子发射断层成像
+基準値,参考区间（参考值）,reference interval,检验术语,7,确定,中日同形异义：对应中国的“参考区间”，勿直译“基准值”。
+医薬品,药品,pharmaceuticals,制度与法规,7,确定,日本的体外诊断试剂在法律上属于“体外診断用医薬品”
+静脈血採取料,静脉采血费,venous blood collection fee,制度与法规,7,确定,
+採血管,采血管,blood collection tube,仪器装置,7,确定,多指真空采血管。血清分離用採血管译“血清分离管”，抗凝固採血管译“抗凝管”。
+健康保険組合,健康保险组合,health insurance society,制度与法规,7,确定,日本企业型医保的保险人
+臨床検査センター,第三方医学检验实验室（检验中心）,commercial clinical laboratory,机构与企业,7,确定,变体：検査会社、検査センター。对应中国的独立医学实验室。
+保険外診療,自费诊疗（医保外诊疗）,non-covered care,制度与法规,7,确定,日本原则上禁止混合诊疗，一旦含医保外项目，相关诊疗全部自费。
+診断薬,诊断试剂,diagnostic reagent,试剂与分子,7,确定,变体：臨床検査薬、検査薬、体外診断薬（体外诊断试剂）
+人間ドック,综合健康体检,comprehensive medical checkup (ningen dock),制度与法规,7,确定,日本特有的自费全面体检
+OTC検査,OTC检测（非处方自测）,over-the-counter test,检验术语,7,确定,
+東京済生会中央病院,东京济生会中央医院,Tokyo Saiseikai Central Hospital,机构与企业,7,确定,
+診療放射線技師,诊疗放射线技师（放射技师）,radiological technologist,制度与法规,7,确定,日本国家资格
+臨床検査技師,临床检验技师,medical technologist,制度与法规,7,确定,日本国家资格，可从事采血、超声、MRI等。
+臨床検査医学科,检验医学科,department of laboratory medicine,其他,7,确定,变体：臨床検査科
+病理診断科,病理诊断科,department of diagnostic pathology,其他,7,确定,
+生化学自動分析計,全自动生化分析仪,automated clinical chemistry analyzer,仪器装置,7,确定,变体：生化学自動分析装置、生化学分析装置
+免疫化学測定装置,免疫分析仪,immunoassay analyzer,仪器装置,7,确定,
+スパイロメーター,肺功能仪（肺量计）,spirometer,仪器装置,7,确定,原文亦称“呼吸器計”
+大和市立病院,大和市立医院,Yamato Municipal Hospital,机构与企业,8,确定,
+慶應義塾大学病院,庆应义塾大学医院,Keio University Hospital,机构与企业,8,确定,
+大分大学医学部附属病院,大分大学医学部附属医院,Oita University Hospital,机构与企业,8,确定,
+研修医,住院医师（初期研修医）,resident,其他,8,确定,日本毕业后两年临床研修期的医师
+製造販売業者,上市许可持有人（制造销售业者）,marketing authorization holder,制度与法规,9,确定,日本薬機法下对产品上市负总责的企业资质
+生体現象計測,生理参数测量,biophysical measurement,检验术语,9,确定,日本医疗器械统计分类名，指心电图机、血压计等。
+医用検体検査機器,医用样本检验仪器,medical specimen testing equipment,仪器装置,9,确定,医疗器械统计分类名
+医師会,医师会,medical association,机构与企业,9,确定,全国性组织为日本医師会（日本医师会，Japan Medical Association）
+自動搬送（検体搬送システム）,样本自动传输系统（检验流水线）,automated sample transport system,仪器装置,9,确定,变体：検体搬送システム、搬送ライン
+一般社団法人,一般社团法人,general incorporated association,制度与法规,9,确定,日本非营利法人形式
+日本医療機器産業連合会,日本医疗器械产业联合会,Japan Federation of Medical Devices Associations (JFMDA),机构与企业,10,确定,
+家次恒,家次恒,Hisashi Ietsugu,人名,10,确定,希森美康董事长
+日本臨床検査自動化学会,日本临床检验自动化学会,Japan Society for Clinical Laboratory Automation (JSCLA),机构与企业,10,确定,
+LSIメディエンス,LSI Medience,LSI Medience Corporation,机构与企业,10,确定,原三菱化学美迪恩斯，无官方中文名，保留英文。
+メディカルスキャニング,Medical Scanning,Medical Scanning,机构与企业,10,确定,受托开展CT/MRI检查的影像中心运营商，无中文名
+病理診断,病理诊断,pathological diagnosis,检验术语,11,确定,
+蛍光色素,荧光染料,fluorescent dye,试剂与分子,11,确定,
+レーウェンフック,列文虎克（Antonie van Leeuwenhoek）,Antonie van Leeuwenhoek,人名,11,确定,原文缩写为A.V. Leeuwenhoek
+単式顕微鏡,单式显微镜,simple microscope,仪器装置,11,确定,变体：単眼顕微鏡（指单透镜，不是“单目”）
+複眼式顕微鏡,复式显微镜,compound microscope,仪器装置,11,确定,原文“複眼式”易误译为“复眼”，实指复合透镜。变体：複式顕微鏡。
+液浸法,浸液法（油浸法）,immersion method,方法与原理,11,确定,
+色収差,色差,chromatic aberration,方法与原理,11,确定,
+カール・ツァイス,卡尔·蔡司（Carl Zeiss）,Carl Zeiss,人名,11,确定,Zeiss社译“蔡司公司”
+アッベ,阿贝（Ernst Abbe）,Ernst Abbe,人名,11,确定,
+品質管理,质量管理,quality management,检验术语,11,确定,多指企业生产质量管理，注意与“精度管理”区分。
+ルスカ,鲁斯卡（Ernst Ruska）,Ernst Ruska,人名,11,确定,
+電子顕微鏡,电子显微镜,electron microscope,仪器装置,11,确定,変体：透過型電子顕微鏡（透射电镜）、走査型電子顕微鏡（扫描电镜）
+分解能,分辨率,resolution,方法与原理,11,确定,注意与色谱的“分離能（分离度）”区分
+濾過性病原体,滤过性病原体,filterable agent,疾病与标志物,11,确定,病毒的旧称
+ルイ・パスツール,路易·巴斯德（Louis Pasteur）,Louis Pasteur,人名,12,确定,
+ロベルト・コッホ,罗伯特·科赫（Robert Koch）,Heinrich Hermann Robert Koch,人名,12,确定,
+滅菌法,灭菌法,sterilization,方法与原理,12,确定,
+リスター,李斯特（Joseph Lister）,Joseph Lister,人名,12,确定,
+抗生物質,抗生素,antibiotics,试剂与分子,12,确定,变体：抗生剤
+ペニシリン,青霉素,penicillin,试剂与分子,13,确定,
+ストレプトマイシン,链霉素,streptomycin,试剂与分子,13,确定,
+同定,鉴定,identification,检验术语,13,确定,中日同形异义：微生物“同定”即鉴定。同定検査译“鉴定试验”。
+薬剤感受性検査,药物敏感性试验（药敏试验）,antimicrobial susceptibility testing,检验术语,13,确定,变体：感受性検査、抗生物質感受性試験
+耐性菌,耐药菌,drug-resistant bacteria,疾病与标志物,13,确定,
+血液培養,血培养,blood culture,检验术语,13,确定,血液培養ボトル译“血培养瓶”
+孵卵器,培养箱（孵育箱）,incubator,仪器装置,13,确定,勿直译“孵卵器”
+グラム染色,革兰染色,Gram stain,方法与原理,13,确定,
+分離培養,分离培养,isolation culture,方法与原理,13,确定,
+好気培養／嫌気培養,需氧培养/厌氧培养,aerobic/anaerobic culture,方法与原理,13,确定,
+速報,初步报告（初报）,preliminary report,检验术语,13,确定,微生物检验的分级报告
+夾雑菌,杂菌,contaminating bacteria,检验术语,14,确定,
+感作,致敏（包被）,sensitization (coating),方法与原理,14,确定,指将抗原或抗体固定在红细胞、胶乳等载体上。抗体感作微粒子译“抗体致敏微粒”。
+凝集反応,凝集反应,agglutination,方法与原理,14,确定,
+遺伝子診断,基因诊断,genetic diagnosis,检验术语,14,确定,
+相補性,互补性,complementarity,方法与原理,14,确定,
+プライマー,引物,primer,试剂与分子,14,确定,
+PCR（ポリメラーゼ連鎖反応）,聚合酶链式反应（PCR）,polymerase chain reaction,方法与原理,14,确定,变体：遺伝子増幅（基因扩增）
+標識,标记,label,方法与原理,14,确定,
+再現性,重复性（精密度）,reproducibility / precision,检验术语,14,确定,日文多指精密度。同時再現性另列条目。
+組織病理検査,组织病理学检查,histopathological examination,检验术语,15,确定,
+ウィルヒョウ,魏尔啸（Rudolf Virchow）,Rudolf Virchow,人名,15,确定,
+細胞病理学,细胞病理学,cellular pathology,检验术语,15,确定,
+体液疾病説,体液病理学说,humoral theory,其他,15,确定,
+確定診断,确诊（确定诊断）,definitive diagnosis,检验术语,15,确定,
+組織切片,组织切片,tissue section,检验术语,15,确定,
+ヘマトキシリン-エオジン染色,苏木精-伊红染色（HE染色）,hematoxylin-eosin stain,方法与原理,15,确定,
+ブッシュ（H. Busch）,H. Busch,H. Busch,人名,15,确定,无通行中译名，保留原文拼写；HE染色发明者另有Wissowzky之说，列入疑点清单。
+ギムザ染色,吉姆萨染色,Giemsa stain,方法与原理,15,确定,
+パーキン,珀金（William Henry Perkin）,William Henry Perkin,人名,15,确定,
+モーブ,苯胺紫,mauveine,试剂与分子,15,确定,
+固定,固定,fixation,方法与原理,15,确定,
+フォルムアルデヒド,甲醛,formaldehyde,试剂与分子,15,确定,水溶液即福尔马林
+グルタルアルデヒド,戊二醛,glutaraldehyde,试剂与分子,15,确定,原文首处误作“グルタルアルデヒト”
+クロム酸,铬酸,chromic acid,试剂与分子,15,确定,
+ピクリン酸,苦味酸,picric acid,试剂与分子,15,确定,
+パラフィン包埋,石蜡包埋,paraffin embedding,方法与原理,15,确定,原文作“パラフィン埋包物”
+クレブス,克莱布斯（Edwin Klebs）,Edwin Klebs,人名,15,确定,
+なめし剤,鞣剂,tanning agent,试剂与分子,15,确定,
+標識抗体,标记抗体,labeled antibody,试剂与分子,16,确定,
+免疫グロブリン,免疫球蛋白（Ig）,immunoglobulin,试剂与分子,16,确定,变体：イムノグロブリン
+エストロゲン・レセプター,雌激素受体（ER）,estrogen receptor,疾病与标志物,16,确定,
+酵素標識,酶标记,enzyme labeling,方法与原理,16,确定,
+基質,底物,substrate,试剂与分子,16,确定,中日同形异义：酶学中指底物，勿译“基质”。
+暗視野,暗视野,dark field,方法与原理,16,确定,
+免疫組織化学検査,免疫组织化学检查（IHC）,immunohistochemistry,检验术语,16,确定,
+FISH法,荧光原位杂交（FISH）,fluorescence in situ hybridization,方法与原理,16,确定,变体：FISHプローブ（FISH探针）
+免疫（する）,免疫（动物）,immunize,方法与原理,16,确定,指用抗原免疫动物以制备抗体
+昭和大学藤が丘病院,昭和大学藤丘医院,Showa University Fujigaoka Hospital,机构与企业,16,确定,
+ライカ マイクロシステムズ,徕卡显微系统,Leica Microsystems,机构与企业,16,确定,
+血漿,血浆,plasma,检验术语,17,确定,
+ヒューソン,休森（William Hewson）,William Hewson,人名,17,确定,
+リンパ球,淋巴细胞,lymphocyte,检验术语,17,确定,
+ドンネ,多内（Alfred Donné）,Alfred Donné,人名,17,确定,
+エールリッヒ,埃尔利希（Paul Ehrlich）,Paul Ehrlich,人名,17,确定,
+好中球,中性粒细胞,neutrophil,检验术语,17,确定,
+好酸球,嗜酸性粒细胞,eosinophil,检验术语,17,确定,
+好塩基球,嗜碱性粒细胞,basophil,检验术语,17,确定,
+単球,单核细胞,monocyte,检验术语,17,确定,
+ギムザ,吉姆萨（Gustav Giemsa）,Gustav Giemsa,人名,17,确定,
+マラリア原虫,疟原虫,Plasmodium,疾病与标志物,17,确定,
+白血球分画,白细胞分类计数,leukocyte differential,检验术语,17,确定,
+血球計算盤,血细胞计数板,hemocytometer,仪器装置,17,确定,变体：ノイバウエル盤（改良牛鲍尔计数板，Neubauer）
+コールター,库尔特（Wallace H. Coulter）,Wallace H. Coulter,人名,17,确定,
+コールターカウンター,库尔特计数器,Coulter Counter,产品名,17,确定,
+インピーダンス方式,电阻抗法,electrical impedance method,方法与原理,17,确定,
+アパーチャー,小孔（微孔）,aperture,仪器装置,17,确定,变体：細孔、オリフィス
+網赤血球,网织红细胞,reticulocyte,检验术语,17,确定,
+日本血液製剤協会,日本血液制剂协会,Japan Blood Products Association,机构与企业,17,确定,
+東亞特殊電機,东亚特殊电机,Toa Tokushu Denki,机构与企业,18,确定,即现TOA株式会社，是希森美康的前身。原文初版误作“東亜”。
+CC-1001,CC-1001半自动血细胞计数仪,CC-1001,产品名,18,确定,1963年推出的日本国产首台血细胞计数仪
+フローサイトメーター,流式细胞仪,flow cytometer,仪器装置,18,确定,变体：フローサイトメトリー（流式细胞术）
+モノクローナル抗体,单克隆抗体,monoclonal antibody,试剂与分子,18,确定,
+CD抗原,CD抗原（分化簇抗原）,cluster of differentiation antigen,疾病与标志物,18,确定,
+マクロファージ,巨噬细胞,macrophage,检验术语,18,确定,
+シスメックス,希森美康,Sysmex,机构与企业,18,确定,
+ベックマンコールター,贝克曼库尔特,Beckman Coulter,机构与企业,18,确定,前身为Coulter公司（库尔特公司）
+シース液,鞘液,sheath fluid,试剂与分子,18,确定,シースフロー译“鞘流”
+白血病の病形分類,白血病分型,leukemia classification,检验术语,19,确定,变体：白血病タイピング検査（白血病免疫分型）
+iPS細胞,诱导多能干细胞（iPS细胞）,induced pluripotent stem cell,其他,19,确定,
+シーメンス,西门子,Siemens,机构与企业,20,确定,
+島津製作所,岛津制作所,Shimadzu Corporation,机构与企业,20,确定,
+レントゲン,伦琴（Wilhelm Röntgen）,Wilhelm Conrad Röntgen,人名,20,确定,
+透視法,X线透视,fluoroscopy,方法与原理,20,确定,与“透過法”（X线摄片）相对
+タウシッグ,陶西格（Helen B. Taussig）,Helen B. Taussig,人名,20,确定,原文拼作H.B.Tausig；将透视法起源归于此人存疑，列入疑点清单。
+光電子倍増管,光电倍增管,photomultiplier tube,仪器装置,20,确定,p74作“光電子増倍管（フォトマル）”。p20透视语境照原文译“光电倍增管”，并在疑点清单指出实际应为影像增强器（image intensifier）。
+造影剤,造影剂,contrast agent,试剂与分子,20,确定,
+クラウゼ,克劳泽（Paul Krause）,Paul Krause,人名,20,确定,
+硫酸バリウム,硫酸钡,barium sulfate,试剂与分子,20,确定,
+ヨウ素系造影剤,碘造影剂,iodinated contrast agent,试剂与分子,20,确定,
+ウログラフィン,泛影葡胺（Urografin）,Urografin,产品名,20,确定,
+フォルスマン,福斯曼（Werner Forssmann）,Werner Forssmann,人名,20,确定,
+カテーテル,导管,catheter,仪器装置,20,确定,
+狭心症,心绞痛,angina pectoris,疾病与标志物,20,确定,
+心筋梗塞,心肌梗死,myocardial infarction,疾病与标志物,20,确定,
+アルベルト・フォン・ケリカー,克利克（Albert von Kölliker）,Albert von Kölliker,人名,20,确定,
+コーマック,科马克（Allan M. Cormack）,Allan M. Cormack,人名,21,确定,
+EMI社,EMI公司,EMI,机构与企业,21,确定,
+ハウンズフィールド,豪斯菲尔德（Godfrey Hounsfield）,Godfrey Hounsfield,人名,21,确定,附录年表误作Haunsfield
+東芝,东芝,Toshiba,机构与企业,21,确定,
+ヘリカルCT,螺旋CT,helical CT,仪器装置,21,确定,变体：スパイラルCT、ヘリカル・スキャン
+マルチスライスCT,多层螺旋CT（MSCT）,multi-slice CT,仪器装置,21,确定,
+核磁気共鳴,核磁共振（NMR）,nuclear magnetic resonance,方法与原理,21,确定,变体：NMR、核磁気共鳴法
+ダマディアン,达马迪安（Raymond V. Damadian）,Raymond V. Damadian,人名,21,确定,
+超電導磁石,超导磁体,superconducting magnet,仪器装置,21,确定,
+心臓病センター榊原病院,心脏病中心榊原医院,Sakakibara Heart Institute of Okayama,机构与企业,21,确定,隶属社会医疗法人社团十全会
+プローブ,探头,probe,仪器装置,22,确定,
+ドゥーシック,杜西克（Karl Theo Dussik）,Karl Theo Dussik,人名,22,确定,
+ホウリー,霍利（Douglass H. Howry）,Douglass H. Howry,人名,22,确定,
+Bモード,B型模式（B超）,B-mode,方法与原理,22,确定,
+日本無線,日本无线,"Japan Radio Co., Ltd. (JRC)",机构与企业,22,确定,
+ドプラー効果,多普勒效应,Doppler effect,方法与原理,22,确定,
+カラードプラ法,彩色多普勒法,color Doppler,方法与原理,22,确定,
+アロカ,阿洛卡,Aloka,机构与企业,22,确定,现并入日立
+内視鏡,内镜,endoscope,仪器装置,23,确定,
+オリンパス,奥林巴斯,Olympus,机构与企业,23,确定,
+胃カメラ,胃内照相机（胃镜）,gastrocamera,仪器装置,23,确定,早期产品是前端装有相机的“胃照相机”，现日语泛指胃镜。
+シンドラー,申德勒（Rudolf Schindler）,Rudolf Schindler,人名,23,确定,
+グラスファイバー,玻璃纤维（光导纤维）,glass fiber,仪器装置,23,确定,
+鉗子,活检钳,forceps,仪器装置,23,确定,
+ビデオスコープ,电子内镜,videoscope,仪器装置,23,确定,
+Narrow band,窄带成像（NBI）,narrow band imaging,方法与原理,23,确定,
+血圧計,血压计,sphygmomanometer,仪器装置,23,确定,
+心電計,心电图机,electrocardiograph,仪器装置,23,确定,变体：心電図計
+脳波計,脑电图仪,electroencephalograph,仪器装置,23,确定,脳波译“脑电图/脑电波”
+パルスオキシメーター,脉搏血氧仪,pulse oximeter,仪器装置,23,确定,
+ハーヴェー,哈维（William Harvey）,William Harvey,人名,23,确定,
+ヘイルズ,黑尔斯（Stephen Hales）,Stephen Hales,人名,24,确定,
+観血的血圧測定,有创血压测量,invasive blood pressure measurement,方法与原理,24,确定,非観血的译“无创”
+リバロッチ,里瓦-罗奇（Scipione Riva-Rocci）,Scipione Riva-Rocci,人名,24,确定,
+水銀血圧計,水银血压计,mercury sphygmomanometer,仪器装置,24,确定,
+カフ,袖带,cuff,仪器装置,24,确定,
+コロトコフ,科罗特科夫（Nikolai S. Korotkov）,Nikolai S. Korotkov,人名,24,确定,
+バイタル・サイン,生命体征,vital signs,检验术语,24,确定,
+クリティコン,Criticon,Critikon,机构与企业,24,确定,照原文拼写；该公司通行拼写为Critikon，列入疑点清单。
+振動式（血圧計）,示波法,oscillometric method,方法与原理,24,确定,
+アイントーフェン,爱因托芬（Willem Einthoven）,Willem Einthoven,人名,24,确定,
+ホルタ心電計,动态心电图仪（Holter）,Holter monitor,仪器装置,24,确定,变体：ホルター心電計
+フクダ電子,福田电子,Fukuda Denshi,机构与企业,24,确定,
+運動負荷心電図法,运动负荷心电图,exercise stress ECG,方法与原理,25,确定,
+虚血性心疾患,缺血性心脏病,ischemic heart disease,疾病与标志物,25,确定,
+マスター,马斯特（Arthur M. Master）,Arthur M. Master,人名,25,确定,
+ホルタ（N.J. Holter）,霍尔特（Norman J. Holter）,Norman J. Holter,人名,25,确定,
+不整脈,心律失常,arrhythmia,疾病与标志物,25,确定,
+ニトログリセリン,硝酸甘油,nitroglycerin,试剂与分子,25,确定,
+バーガー,伯格（Hans Berger）,Hans Berger,人名,25,确定,
+てんかん,癫痫,epilepsy,疾病与标志物,25,确定,
+SPECT,单光子发射计算机断层成像（SPECT）,single photon emission CT,方法与原理,25,确定,原文全称拼作Photo-Emission，应为Photon Emission
+fMRI,功能磁共振成像（fMRI）,functional MRI,方法与原理,25,确定,
+認知症,痴呆（认知症）,dementia,疾病与标志物,25,确定,
+小川誠,小川诚,Seiji Ogawa,人名,26,确定,照原文；fMRI（BOLD）发现者通常记为小川诚二（Seiji Ogawa），疑为笔误，列入疑点清单。
+脱酸化ヘモグロビン,脱氧血红蛋白,deoxyhemoglobin,试剂与分子,26,确定,
+PET,正电子发射断层成像（PET）,positron emission tomography,方法与原理,26,确定,
+酸素飽和度,血氧饱和度,oxygen saturation,检验术语,26,确定,
+日本光電,日本光电,Nihon Kohden,机构与企业,26,确定,
+青柳卓雄,青柳卓雄,Takuo Aoyagi,人名,26,确定,脉搏血氧仪的发明者
+酸素電極,氧电极,oxygen electrode,仪器装置,26,确定,
+酸素分圧,氧分压,partial pressure of oxygen,检验术语,26,确定,
+ベッドサイドモニタ,床旁监护仪,bedside monitor,仪器装置,27,确定,
+睡眠時無呼吸症候群,睡眠呼吸暂停综合征,sleep apnea syndrome,疾病与标志物,27,确定,
+凝固線溶,凝血与纤溶,coagulation and fibrinolysis,检验术语,27,确定,变体：血液凝固・線溶；線溶マーカー（纤溶标志物）
+比色法,比色法,colorimetry,方法与原理,27,确定,
+シェヴレイユ,谢弗勒尔（Michel Eugène Chevreul）,Michel Eugène Chevreul,人名,27,确定,
+シェーレ,舍勒（Carl Wilhelm Scheele）,Carl Wilhelm Scheele,人名,27,确定,
+生気論,活力论,vitalism,其他,27,确定,
+ヴェーラー,维勒（Friedrich Wöhler）,Friedrich Wöhler,人名,27,确定,
+フィッシャー（E. Fischer）,费歇尔（Emil Fischer）,Emil Fischer,人名,27,确定,
+プリン,嘌呤,purine,试剂与分子,27,确定,变体：プリン体
+アルブミン,白蛋白,albumin,试剂与分子,27,确定,
+フィブリン,纤维蛋白,fibrin,试剂与分子,27,确定,
+ホッペ＝ザイラー,霍佩-赛勒（Felix Hoppe-Seyler）,Felix Hoppe-Seyler,人名,27,确定,
+臨床検査法提要,《临床检查法提要》,,其他,28,确定,日本经典临床检验手册（金井泉编），书名可保留原文。
+精度,精密度/准确度（视语境）,precision / accuracy,检验术语,28,确定,日语泛指测量的可靠程度，“測定精度”需按语境译。
+定性試験,定性试验,qualitative test,检验术语,28,确定,
+尿試験紙,尿试纸条,urine test strip,试剂与分子,28,确定,
+容量分析,容量分析（滴定分析）,volumetric analysis,方法与原理,28,确定,
+光電比色計,光电比色计,photoelectric colorimeter,仪器装置,28,确定,变体：光電光度計
+呈色反応,显色反应,color reaction,方法与原理,28,确定,
+比色計,比色计,colorimeter,仪器装置,28,确定,
+ランベルト・ベールの法則,朗伯-比尔定律,Lambert-Beer law,方法与原理,28,确定,
+デュボスク比色計,杜博斯克比色计,Duboscq colorimeter,仪器装置,28,确定,
+日立製作所,日立制作所,"Hitachi, Ltd.",机构与企业,28,确定,
+日立ハイテクサイエンス,日立高新技术科学,Hitachi High-Tech Science,机构与企业,28,确定,
+光路長,光程,optical path length,方法与原理,28,确定,
+吸光度,吸光度,absorbance,方法与原理,29,确定,
+吸光係数,吸光系数,absorption coefficient,方法与原理,29,确定,原文有一处误作“吸光計数”。モル吸光係数译“摩尔吸光系数”。
+吸収スペクトル,吸收光谱,absorption spectrum,方法与原理,29,确定,
+Somogyi-Nelson法,Somogyi-Nelson法,Somogyi-Nelson method,方法与原理,29,确定,
+還元糖,还原糖,reducing sugar,试剂与分子,29,确定,
+モリブデン青,钼蓝,molybdenum blue,试剂与分子,29,确定,
+グルコースオキシダーゼ法,葡萄糖氧化酶法,glucose oxidase method,方法与原理,29,确定,注意：原文例2所列反应实为己糖激酶法（HK法），翻译时建议加译注说明。
+ヘキソキナーゼ,己糖激酶,hexokinase,试剂与分子,29,确定,
+G-6-Pデヒドロゲナーゼ,葡萄糖-6-磷酸脱氢酶（G6PD）,glucose-6-phosphate dehydrogenase,试剂与分子,29,确定,
+ATP／ADP,三磷酸腺苷/二磷酸腺苷,ATP / ADP,试剂与分子,29,确定,原文误作“アデノシン-3-リン酸/-2-リン酸”，应为三磷酸腺苷/二磷酸腺苷。
+NADP+／NADPH,烟酰胺腺嘌呤二核苷酸磷酸（氧化型/还原型）,NADP+ / NADPH,试剂与分子,29,确定,
+基質特異性,底物特异性,substrate specificity,方法与原理,29,确定,
+分光光度計,分光光度计,spectrophotometer,仪器装置,29,确定,
+回折格子,衍射光栅,diffraction grating,仪器装置,29,确定,
+石英セル,石英比色皿,quartz cell,仪器装置,29,确定,
+機器分析,仪器分析,instrumental analysis,方法与原理,30,确定,
+錯イオン,络离子（配离子）,complex ion,试剂与分子,30,确定,
+溶解度積,溶度积,solubility product,方法与原理,30,确定,
+ポーラログラフィー,极谱法,polarography,方法与原理,30,确定,
+フィッシャー（H. Fischer）,H. Fischer,H. Fischer,人名,30,确定,身份不明（或为Hans Fischer），保留原文拼写，列入疑点清单。
+赤外分光光度計,红外分光光度计,infrared spectrophotometer,仪器装置,30,确定,变体：赤外分光器
+ラマン分光器,拉曼光谱仪,Raman spectrometer,仪器装置,30,确定,
+質量分析計,质谱仪,mass spectrometer,仪器装置,30,确定,变体：質量分析法（质谱法）
+パーセル,珀塞尔（Edward M. Purcell）,Edward M. Purcell,人名,30,确定,
+ブロッホ,布洛赫（Felix Bloch）,Felix Bloch,人名,30,确定,
+ツヴェット,茨维特（Mikhail S. Tsvet）,Mikhail S. Tsvet,人名,30,确定,原文作MS.T. Twett，年表作Tswett
+吸着クロマトグラフィー,吸附色谱法,adsorption chromatography,方法与原理,30,确定,
+マーティン,马丁（Archer J. P. Martin）,Archer J. P. Martin,人名,30,确定,
+分配クロマトグラフィー,分配色谱法,partition chromatography,方法与原理,30,确定,
+ガスクロマトグラフィー,气相色谱法,gas chromatography,方法与原理,30,确定,
+液体クロマトグラフィー,液相色谱法,liquid chromatography,方法与原理,30,确定,
+超臨界流体クロマトグラフィー,超临界流体色谱法,supercritical fluid chromatography,方法与原理,30,确定,
+電位差分析,电位分析法,potentiometry,方法与原理,30,确定,变体：電位差滴定計（电位滴定仪）
+天然物化学,天然产物化学,natural product chemistry,其他,30,确定,
+高速液体クロマトグラフィー,高效液相色谱（HPLC）,high-performance liquid chromatography,方法与原理,30,确定,
+LC/MS,液相色谱-质谱联用（LC-MS）,liquid chromatography-mass spectrometry,方法与原理,30,确定,变体：LC/MS/MS、LC-MS/MS（串联质谱）
+夾雑物,干扰物质（共存杂质）,interfering substance,检验术语,30,确定,
+分離能,分离度,resolution (separation),方法与原理,30,确定,
+日本臨床検査医学会,日本临床检验医学会（JSLM）,Japanese Society of Laboratory Medicine,机构与企业,32,确定,前身日本臨床病理学会（日本临床病理学会），机关刊物《臨床病理》
+診療報酬点数表,诊疗报酬点数表,medical fee schedule,制度与法规,35,确定,
+GHQ,驻日盟军总司令部（GHQ）,General Headquarters,机构与企业,35,确定,
+東京第一病院,东京第一医院,Tokyo First Hospital,机构与企业,35,确定,现国立国际医疗研究中心（原文称“国立医療センター”）
+中央検査室,中心检验室（中央检验科）,central clinical laboratory,其他,35,确定,
+医局,医局（临床科室）,ikyoku (medical department),制度与法规,35,确定,日本大学医院按科室组织医师的体制
+A/G比,白球比（A/G）,albumin/globulin ratio,检验术语,35,确定,
+血漿タンパク質,血浆蛋白,plasma protein,试剂与分子,35,确定,
+グロブリン,球蛋白,globulin,试剂与分子,35,确定,
+フィブリノーゲン,纤维蛋白原,fibrinogen,试剂与分子,35,确定,
+クレアチニン,肌酐,creatinine,疾病与标志物,35,确定,
+コレステロール,胆固醇,cholesterol,疾病与标志物,35,确定,
+東京厚生年金病院,东京厚生年金医院,Tokyo Kosei Nenkin Hospital,机构与企业,35,确定,现东京新宿医疗中心（東京新宿メディカルセンター）
+除蛋白,除蛋白（去蛋白）,deproteinization,方法与原理,35,确定,变体：除タンパク
+酸性フォスファターゼ,酸性磷酸酶（ACP）,acid phosphatase,疾病与标志物,35,确定,
+アルカリフォスファターゼ,碱性磷酸酶（ALP）,alkaline phosphatase,疾病与标志物,35,确定,变体：AL-P
+コリンエステラーゼ,胆碱酯酶（ChE）,cholinesterase,疾病与标志物,35,确定,
+アミノトランスフェラーゼ,氨基转移酶（转氨酶）,aminotransferase,疾病与标志物,35,确定,变体：トランスアミナーゼ
+アミラーゼ,淀粉酶,amylase,疾病与标志物,35,确定,旧称ジアスターゼ
+レート法,速率法,rate method,方法与原理,35,确定,变体：反応速度法、レートアッセイ
+乳酸脱水素酵素,乳酸脱氢酶（LD/LDH）,lactate dehydrogenase,疾病与标志物,35,确定,
+クレアチンリン酸キナーゼ,肌酸激酶（CK）,creatine (phospho)kinase,疾病与标志物,35,确定,旧称CPK
+オートアナライザー,AutoAnalyzer自动分析仪,AutoAnalyzer,产品名,36,确定,Technicon公司于1957年推出的连续流动式分析仪（附录年表误作1950年）
+用手法,手工法,manual method,方法与原理,36,确定,
+寄生虫卵検査,寄生虫卵检查,ova and parasite test,检验术语,36,确定,
+ビリルビン,胆红素,bilirubin,疾病与标志物,36,确定,
+非侵襲,无创,non-invasive,检验术语,36,确定,
+逸脱酵素,逸脱酶,leakage enzyme,检验术语,37,确定,首次出现时括注“组织损伤后释放入血的酶”。变体：漏出酵素。
+非蛋白性窒素,非蛋白氮（NPN）,non-protein nitrogen,检验术语,37,确定,
+総タンパク,总蛋白,total protein,检验术语,37,确定,
+分画,组分,fraction,检验术语,37,确定,如蛋白电泳组分
+クレアチン,肌酸,creatine,试剂与分子,37,确定,
+ヘモグロビンA1c,糖化血红蛋白（HbA1c）,hemoglobin A1c,疾病与标志物,38,确定,变体：糖化ヘモグロビン
+フラミンガム,弗雷明汉（心脏研究）,Framingham,其他,38,确定,
+ケン化,皂化,saponification,方法与原理,38,确定,
+酵素法,酶法,enzymatic method,方法与原理,38,确定,
+中性脂質,甘油三酯（中性脂肪）,triglycerides,疾病与标志物,38,确定,
+リポタンパク質,脂蛋白,lipoprotein,疾病与标志物,38,确定,LDL/HDL译“低/高密度脂蛋白”
+炎光分析法,火焰光度法,flame photometry,方法与原理,38,确定,
+原子吸光分析法,原子吸收光谱法,atomic absorption spectrometry,方法与原理,38,确定,
+電極法,电极法（离子选择电极法）,ion-selective electrode method,方法与原理,38,确定,
+キレート法,螯合比色法,chelate method,方法与原理,38,确定,
+無機リン,无机磷,inorganic phosphorus,疾病与标志物,38,确定,
+膵炎,胰腺炎,pancreatitis,疾病与标志物,38,确定,
+AST（GOT）,天门冬氨酸氨基转移酶（AST）,aspartate aminotransferase,疾病与标志物,38,确定,旧称GOT
+ALT（GPT）,丙氨酸氨基转移酶（ALT）,alanine aminotransferase,疾病与标志物,38,确定,旧称GPT
+γ-グルタミルトランスフェラーゼ,γ-谷氨酰转移酶（GGT）,gamma-glutamyltransferase,疾病与标志物,38,确定,
+検査キット,检测试剂盒,test kit,试剂与分子,38,确定,变体：試薬キット、キット試薬
+感度,灵敏度,sensitivity,检验术语,38,确定,需区分分析灵敏度和诊断灵敏度，注11中的定义为诊断灵敏度。
+特異度,特异度,specificity,检验术语,38,确定,特異性译“特异性”（多指分析特异性）
+衛生検査技師,卫生检验技师,sanitary laboratory technician,制度与法规,39,确定,日本旧国家资格
+臨床検査技師、衛生検査技師等に関する法律,《临床检验技师、卫生检验技师等相关法律》,Act on Clinical Laboratory Technicians,制度与法规,39,确定,
+緩衝液,缓冲液,buffer,试剂与分子,39,确定,
+要時調製,临用现配,prepared before use,检验术语,39,确定,
+シグマ社,西格玛（Sigma）,Sigma,机构与企业,39,确定,现Sigma-Aldrich
+特級グレード,特级纯（GR级）,guaranteed reagent grade,试剂与分子,39,确定,
+凍結乾燥,冷冻干燥,lyophilization,方法与原理,39,确定,
+分注器,分液器（加液器）,dispenser,仪器装置,39,确定,
+フローセル,流动池,flow cell,仪器装置,39,确定,
+キュベット,比色杯（反应杯）,cuvette,仪器装置,39,确定,变体：反応容器、反応セル
+栄研化学,荣研化学,Eiken Chemical,机构与企业,39,确定,
+ディスポーザブル,一次性,disposable,其他,40,确定,变体：ディスポ
+テルモ,泰尔茂,Terumo,机构与企业,40,确定,前身为仁丹テルモ（仁丹泰尔茂）
+HIV,人类免疫缺陷病毒（HIV）,human immunodeficiency virus,疾病与标志物,40,确定,
+ピペットチップ,吸头,pipette tip,仪器装置,40,确定,
+米国臨床化学会（AACC）,美国临床化学协会（AACC）,American Association for Clinical Chemistry,机构与企业,40,确定,2023年更名为ADLM；原文全称作Clinical Chemists
+臨床検査（雑誌）,《临床检查》杂志,Rinsho Kensa,其他,40,确定,医学书院刊行的日文期刊
+ピペッティング,移液（加样）,pipetting,方法与原理,42,确定,
+テクニコン社,Technicon公司,Technicon,机构与企业,42,确定,无通行中文名
+コンティニュアス・フロー方式,连续流动式,continuous flow,方法与原理,42,确定,
+サンプラー,进样器（样本盘）,sampler,仪器装置,42,确定,
+透析器,透析器,dialyzer,仪器装置,43,确定,
+標準品,校准品（标准品）,calibrator / standard,试剂与分子,43,确定,
+SMA6/60、SMA12/60,SMA6/60、SMA12/60,SMA,产品名,43,确定,Technicon公司的多通道分析仪
+二波長分光光度計156形,日立156型双波长分光光度计,Hitachi Model 156,产品名,44,确定,
+オートサンプラー,自动进样器,autosampler,仪器装置,44,确定,
+オークリッジ国立研究所,橡树岭国家实验室,Oak Ridge National Laboratory,机构与企业,44,确定,
+セントリフィケム,CentrifiChem离心式分析仪,CentrifiChem,产品名,44,确定,
+ディスクリート方式,分立式,discrete method,方法与原理,44,确定,
+遠心方式,离心式,centrifugal method,方法与原理,44,确定,
+トランスファーディスク,转移盘,transfer disc,仪器装置,44,确定,
+キャリーオーバー,携带污染,carryover,检验术语,44,确定,指样本残留被带入下一样本
+ロッシュ,罗氏,Roche,机构与企业,44,确定,
+COBAS,COBAS,COBAS,产品名,44,确定,罗氏分析仪系列
+日立400形,日立400型自动分析仪,Hitachi 400,产品名,44,确定,
+日本電子,日本电子（JEOL）,JEOL,机构与企业,44,确定,
+コンタミ,污染,contamination,检验术语,44,确定,
+日立706D形,日立706D型自动分析仪,Hitachi 706D,产品名,44,确定,
+日立ハイテクノロジーズ,日立高新技术,Hitachi High-Technologies,机构与企业,45,确定,现日立高新（Hitachi High-Tech）
+後分光方式,后分光方式,post-dispersion optics,方法与原理,45,确定,
+エンドポイント法,终点法,end-point method,方法与原理,45,确定,
+2波長測光,双波长测光,dual-wavelength photometry,方法与原理,45,确定,
+マイコン,微型计算机,microcomputer,其他,45,确定,
+チェインコンベア方式,链式传送方式,chain conveyor system,仪器装置,45,确定,
+日立705形,日立705型自动分析仪,Hitachi 705,产品名,46,确定,1980年推出，首创转盘式完全随机检测
+日立736形,日立736型自动分析仪,Hitachi 736,产品名,46,确定,
+ターンテーブル,反应转盘,turntable,仪器装置,46,确定,
+ブランク,空白,blank,检验术语,46,确定,
+ランダムアクセス方式,随机检测（随机存取）方式,random access,方法与原理,47,确定,检测项目可按样本自由组合
+アプリケーション,检测参数,application,检验术语,47,确定,指分析仪上某检测项目的测定条件设定。
+液面センサー,液面探测器,liquid level sensor,仪器装置,48,确定,
+撹拌翼,搅拌棒,stirring paddle,仪器装置,48,确定,
+シリンジポンプ,注射泵,syringe pump,仪器装置,48,确定,
+ピペッター,加样针,pipettor,仪器装置,48,确定,
+ディスペンサー,分配器,dispenser,仪器装置,48,确定,
+試薬保冷庫,试剂冷藏仓,reagent refrigerator,仪器装置,48,确定,
+バックグラウンド補正,背景校正,background correction,方法与原理,48,确定,
+反応停止液,终止液,stop solution,试剂与分子,49,确定,
+第2試薬,第二试剂（R2）,second reagent,试剂与分子,49,确定,第1試薬译“第一试剂（R1）”
+モリブデン酸還元法,钼酸盐还原法,molybdate reduction method,方法与原理,49,确定,
+Jaffe法,Jaffe法（苦味酸法）,Jaffe method,方法与原理,49,确定,
+界面活性剤,表面活性剂,surfactant,试剂与分子,49,确定,
+日立7070形,日立7070型自动分析仪,Hitachi 7070,产品名,49,确定,
+賦形剤,赋形剂,excipient,试剂与分子,51,确定,
+安定化剤,稳定剂,stabilizer,试剂与分子,51,确定,
+耐熱酵素,耐热酶,thermostable enzyme,试剂与分子,51,确定,
+液状試薬,液体试剂,liquid reagent,试剂与分子,51,确定,
+有効期限,有效期,expiration date,制度与法规,51,确定,
+ステップモーター,步进电机,stepping motor,仪器装置,51,确定,
+クロスコンタミ,交叉污染,cross-contamination,检验术语,51,确定,指试剂之间的污染
+免疫比濁法,免疫比浊法,immunoturbidimetry,方法与原理,51,确定,
+プロゾーン,前带现象（钩状效应）,prozone,检验术语,52,确定,变体：抗原過剰域、プロゾーン現象。中国IVD常称“HOOK效应”。
+非特異反応,非特异性反应,non-specific reaction,检验术语,52,确定,
+COBAS INTEGRA 800,COBAS INTEGRA 800,COBAS INTEGRA 800,产品名,52,确定,
+偽陽性／偽陰性,假阳性/假阴性,false positive/negative,检验术语,52,确定,
+専用試薬,专用试剂（配套试剂）,dedicated reagent,试剂与分子,52,确定,
+薬事法／薬機法,药事法/药机法,Pharmaceutical Affairs Law / PMD Act,制度与法规,52,确定,2014年起旧药事法更名为薬機法，全称《医药品、医疗器械等的质量、有效性及安全性确保等相关法律》。
+サーベイ,室间质评（质量调查）,external quality assessment survey,检验术语,52,确定,变体：医師会サーベイ
+標準物質,标准物质,reference material,试剂与分子,53,确定,
+バイオマジェスティ,BioMajesty,BioMajesty,产品名,53,确定,日本电子的生化分析仪系列
+血算,血常规（全血细胞计数）,complete blood count,检验术语,53,确定,
+ヘマトクリット,红细胞压积（HCT）,hematocrit,检验术语,53,确定,
+白血球3分類,白细胞三分类,3-part WBC differential,检验术语,53,确定,五分类同理
+ウィントローブ,温特罗布（Maxwell M. Wintrobe）,Maxwell M. Wintrobe,人名,54,确定,
+赤血球恒数,红细胞指数（MCV、MCH、MCHC）,red cell indices,检验术语,54,确定,
+前方散乱／側方散乱,前向散射光/侧向散射光,forward/side scatter,方法与原理,54,确定,
+溶血剤,溶血剂,lysing reagent,试剂与分子,54,确定,
+幼弱顆粒球,未成熟粒细胞（IG）,immature granulocyte,检验术语,54,确定,
+幼弱血小板,未成熟血小板,immature platelet,检验术语,54,确定,
+破砕赤血球,破碎红细胞,fragmented red cell,检验术语,54,确定,
+基準法,参考方法,reference method,检验术语,54,确定,中日同形异义，勿译“基准法”
+カットオフ,cut-off值（临界值）,cut-off,检验术语,54,确定,
+スキャッタグラム,散点图,scattergram,检验术语,55,确定,
+スクリーニング検査,筛查试验,screening test,检验术语,55,确定,
+和光純薬工業,和光纯药工业,Wako Pure Chemical Industries,机构与企业,56,确定,现富士胶片和光纯药
+富士経済,富士经济,Fuji Keizai,机构与企业,56,确定,日本市场调研机构
+電気泳動,电泳,electrophoresis,方法与原理,57,确定,
+可変領域,可变区,variable region,试剂与分子,57,确定,
+2量体／5量体,二聚体/五聚体,dimer/pentamer,试剂与分子,57,确定,
+利根川進,利根川进,Susumu Tonegawa,人名,57,确定,
+特異抗体,特异性抗体,specific antibody,试剂与分子,57,确定,
+架橋,交联,cross-linking,方法与原理,58,确定,
+ジェンナー,詹纳（Edward Jenner）,Edward Jenner,人名,58,确定,
+血清療法,血清疗法,serum therapy,方法与原理,58,确定,
+ベーリング,贝林（Emil von Behring）,Emil von Behring,人名,58,确定,
+北里柴三郎,北里柴三郎,Kitasato Shibasaburo,人名,58,确定,
+抗体療法,抗体疗法,antibody therapy,方法与原理,58,确定,变体：抗体医薬（抗体药物）
+ワッセルマン反応,华氏反应,Wassermann reaction,方法与原理,58,确定,
+ガラス板法,玻片法,slide method,方法与原理,58,确定,梅毒血清学试验
+スピロヘーター,螺旋体,spirochete,疾病与标志物,58,确定,
+カルジオリピン,心磷脂,cardiolipin,试剂与分子,58,确定,
+交差反応,交叉反应,cross-reaction,检验术语,58,确定,
+CRP,C反应蛋白（CRP）,C-reactive protein,疾病与标志物,58,确定,
+毛細管混合法,毛细管混合法（毛细管沉淀试验）,capillary precipitation test,方法与原理,58,确定,CRP的早期检测法。
+ティレット,蒂利特（William S. Tillett）,William S. Tillett,人名,58,确定,
+フランシス,弗朗西斯（Thomas Francis Jr.）,Thomas Francis Jr.,人名,58,确定,
+肺炎双球菌,肺炎双球菌（肺炎链球菌）,Streptococcus pneumoniae,疾病与标志物,58,确定,
+C-糖鎖,C多糖,C-polysaccharide,试剂与分子,58,确定,
+抗血清,抗血清,antiserum,试剂与分子,58,确定,
+ホモジニアスイムノアッセイ,均相免疫测定,homogeneous immunoassay,方法与原理,58,确定,变体：ホモジニアス法
+レーザーネフェロメトリー,激光散射比浊法,laser nephelometry,方法与原理,58,确定,
+検量線,校准曲线（标准曲线）,calibration curve,检验术语,58,确定,
+血球凝集法,红细胞凝集法（血凝法）,hemagglutination,方法与原理,59,确定,
+ラントシュタイナー,兰德斯坦纳（Karl Landsteiner）,Karl Landsteiner,人名,59,确定,
+ABO血液型,ABO血型,ABO blood group,检验术语,59,确定,
+日本赤十字社,日本红十字会,Japanese Red Cross Society,机构与企业,59,确定,
+リウマチ因子,类风湿因子（RF）,rheumatoid factor,疾病与标志物,59,确定,
+自己抗体,自身抗体,autoantibody,疾病与标志物,59,确定,
+スライド・テスト,玻片试验,slide test,方法与原理,59,确定,
+ヒト絨毛性ゴナドトロピン,人绒毛膜促性腺激素（hCG）,human chorionic gonadotropin,疾病与标志物,59,确定,
+フィブリン分解産物（FDP）,纤维蛋白（原）降解产物（FDP）,fibrin/fibrinogen degradation products,疾病与标志物,59,确定,
+担体,载体,carrier,试剂与分子,59,确定,
+PA法（ゼラチン粒子凝集法）,明胶颗粒凝集法（PA法）,particle agglutination,方法与原理,59,确定,
+酵素免疫測定法（EIA）,酶免疫测定（EIA）,enzyme immunoassay,方法与原理,59,确定,变体：酵素免疫法
+ヘテロジニアス法,非均相免疫测定,heterogeneous immunoassay,方法与原理,59,确定,变体：ヘテロジニアスイムノアッセイ
+サンドイッチ法,夹心法,sandwich method,方法与原理,60,确定,变体：サンドイッチアッセイ
+ヤロー,雅洛（Rosalyn S. Yalow）,Rosalyn S. Yalow,人名,60,确定,
+バーソン,伯森（Solomon A. Berson）,Solomon A. Berson,人名,60,确定,
+ラジオイムノアッセイ,放射免疫测定（RIA）,radioimmunoassay,方法与原理,60,确定,
+放射性同位元素,放射性同位素,radioisotope,试剂与分子,60,确定,变体：ラジオアイソトープ
+インスリン抵抗性,胰岛素抵抗,insulin resistance,疾病与标志物,60,确定,
+ガストリン,胃泌素,gastrin,疾病与标志物,60,确定,
+検出限界,检出限,limit of detection,检验术语,60,确定,
+B/F分離,B/F分离（结合/游离分离）,bound/free separation,方法与原理,60,确定,
+競合法,竞争法,competitive method,方法与原理,60,确定,
+ホルマザン,甲臜,formazan,试剂与分子,61,确定,
+半減期,半衰期,half-life,其他,61,确定,
+ポリエチレングリコール,聚乙二醇（PEG）,polyethylene glycol,试剂与分子,62,确定,
+固相法,固相法,solid-phase method,方法与原理,62,确定,
+希釈再検,稀释复检,dilution retest,检验术语,62,确定,
+精度管理,质量控制（质控）,quality control,检验术语,62,确定,中日同形异义：检验科的“精度管理”即质量控制（室内质控、室间质评），勿直译。
+上清,上清液,supernatant,检验术语,62,确定,
+ペルオキシダーゼ,过氧化物酶（POD/HRP）,peroxidase,试剂与分子,63,确定,
+インキュベート,孵育,incubate,方法与原理,63,确定,
+立体障害,空间位阻,steric hindrance,方法与原理,63,确定,
+チロシン,酪氨酸,tyrosine,试剂与分子,63,确定,
+ELISA,酶联免疫吸附测定（ELISA）,enzyme-linked immunosorbent assay,方法与原理,64,确定,
+マイクロプレート,微孔板,microplate,仪器装置,64,确定,
+同時再現性,批内精密度,within-run precision,检验术语,64,确定,中日表述差异，勿直译“同时再现性”
+形質細胞,浆细胞,plasma cell,检验术语,64,确定,
+ポリクローナル抗体,多克隆抗体,polyclonal antibody,试剂与分子,64,确定,
+黄体形成ホルモン（LH）,黄体生成素（LH）,luteinizing hormone,疾病与标志物,64,确定,
+卵胞刺激ホルモン（FSH）,卵泡刺激素（FSH）,follicle-stimulating hormone,疾病与标志物,64,确定,
+甲状腺刺激ホルモン（TSH）,促甲状腺激素（TSH）,thyroid-stimulating hormone,疾病与标志物,64,确定,
+ケーラー,科勒（Georges J. F. Köhler）,Georges J. F. Köhler,人名,64,确定,
+ミルスタイン,米尔斯坦（César Milstein）,César Milstein,人名,64,确定,
+骨髄腫細胞,骨髓瘤细胞,myeloma cell,试剂与分子,64,确定,
+ハイブリドーマ,杂交瘤,hybridoma,试剂与分子,64,确定,
+サイトカイン,细胞因子,cytokine,疾病与标志物,65,确定,
+関節リウマチ,类风湿关节炎,rheumatoid arthritis,疾病与标志物,65,确定,
+α-フェトプロテイン（AFP）,甲胎蛋白（AFP）,alpha-fetoprotein,疾病与标志物,67,确定,
+LPIA-1,LPIA-1胶乳免疫分析仪,LPIA-1,产品名,67,确定,三菱化成1983年推出
+乳化重合,乳液聚合,emulsion polymerization,方法与原理,67,确定,
+S/N,信噪比,signal-to-noise ratio,检验术语,69,确定,
+F（ab'）2フラグメント,F(ab')2片段,F(ab')2 fragment,试剂与分子,69,确定,Fc译“Fc段”
+吸収剤,吸收剂,absorbent,试剂与分子,69,确定,
+コロイド,胶体,colloid,其他,69,确定,
+凝固促進剤,促凝剂,clot activator,试剂与分子,70,确定,
+血球分離剤,分离胶,separating gel,试剂与分子,70,确定,
+カルボキシル化ラテックス,羧基化胶乳,carboxylated latex,试剂与分子,70,确定,
+抗ストレプトリジン-O,抗链球菌溶血素O（ASO）,anti-streptolysin O,疾病与标志物,70,确定,
+OEM,OEM（代工贴牌供货）,original equipment manufacturer,其他,70,确定,
+CEA（ガン胎児性抗原）,癌胚抗原（CEA）,carcinoembryonic antigen,疾病与标志物,71,确定,
+β2マイクログロブリン,β2-微球蛋白,beta-2 microglobulin,疾病与标志物,71,确定,
+フェリチン,铁蛋白,ferritin,疾病与标志物,71,确定,
+Dダイマー,D-二聚体,D-dimer,疾病与标志物,71,确定,变体：D-ダイマー
+便潜血,粪便隐血,fecal occult blood,疾病与标志物,71,确定,
+ジゴキシン,地高辛,digoxin,试剂与分子,71,确定,
+PK-300,PK-300全自动酶免分析系统,PK-300,产品名,71,确定,
+三洋化成,三洋化成工业,Sanyo Chemical Industries,机构与企业,71,确定,
+アボット,雅培,Abbott,机构与企业,71,确定,
+IMx,IMx,IMx,产品名,71,确定,雅培1988年推出的酶免分析仪
+AxSYM,AxSYM,AxSYM,产品名,72,确定,
+ルミノール,鲁米诺,luminol,试剂与分子,72,确定,
+量子収率,量子产率,quantum yield,方法与原理,72,确定,
+Quenching（消光）,猝灭（淬灭）,quenching,方法与原理,72,确定,
+ウィークス,Ian Weeks,Ian Weeks,人名,72,确定,无通行中译名
+アクリジニウムエステル,吖啶酯,acridinium ester,试剂与分子,72,确定,
+CLIA,化学发光免疫测定（CLIA）,chemiluminescent immunoassay,方法与原理,72,确定,注意与美国法规CLIA'88区分
+CLEIA,化学发光酶免疫测定（CLEIA）,chemiluminescent enzyme immunoassay,方法与原理,72,确定,
+ルミパルス,Lumipulse,Lumipulse,产品名,72,确定,富士瑞必欧的化学发光系统，变体：ルミパルス・フォルテ（Lumipulse Forte）
+富士レビオ,富士瑞必欧,Fujirebio,机构与企业,72,确定,
+エンハンサー,增强剂,enhancer,试剂与分子,72,确定,
+AMPPD,AMPPD,AMPPD,试剂与分子,72,确定,"金刚烷基1,2-二氧杂环丁烷磷酸酯类化学发光底物"
+ECL,电化学发光免疫测定（ECL）,electrochemiluminescence,方法与原理,73,确定,
+ルテニウムキレート,钌络合物（三联吡啶钌）,ruthenium chelate,试剂与分子,73,确定,
+トリプロピルアミン,三丙胺（TPA）,tripropylamine,试剂与分子,73,确定,
+ルシフェリン,荧光素（萤火虫荧光素）,luciferin,试剂与分子,74,确定,勿与fluorescein混淆，必要时译“虫荧光素”
+ルシフェラーゼ,荧光素酶,luciferase,试剂与分子,74,确定,
+遺伝子組み換え,基因重组,genetic recombination,方法与原理,74,确定,
+光電子増倍管,光电倍增管,photomultiplier tube,仪器装置,74,确定,变体：フォトマル
+フォトンカウンター,光子计数器,photon counter,仪器装置,74,确定,
+蛍光測光,荧光测定,fluorometry,方法与原理,74,确定,
+迷光,杂散光,stray light,方法与原理,74,确定,
+アーキテクト,ARCHITECT,ARCHITECT,产品名,75,确定,雅培免疫分析系统
+磁性微粒子,磁性微粒,magnetic microparticle,试剂与分子,75,确定,
+リンカー,连接子,linker,试剂与分子,75,确定,
+エクルーシス,Elecsys,Elecsys,产品名,76,确定,罗氏电化学发光系统
+変動係数,变异系数（CV）,coefficient of variation,检验术语,76,确定,
+飛び値,离群值,outlier,检验术语,76,确定,
+セントコア,森托科,Centocor,机构与企业,77,确定,
+CA19-9,糖类抗原19-9（CA19-9）,carbohydrate antigen 19-9,疾病与标志物,77,确定,
+CA125,糖类抗原125（CA125）,cancer antigen 125,疾病与标志物,77,确定,
+ヘイブン,Kendall F. Haven,Kendall F. Haven,人名,79,确定,无通行中译名
+高峰譲吉,高峰让吉,Jokichi Takamine,人名,79,确定,
+アドレナリン,肾上腺素,adrenaline,疾病与标志物,79,确定,
+成長ホルモン（GH）,生长激素（GH）,growth hormone,疾病与标志物,80,确定,
+副甲状腺ホルモン（PTH）,甲状旁腺激素（PTH）,parathyroid hormone,疾病与标志物,80,确定,
+副腎皮質刺激ホルモン（ACTH）,促肾上腺皮质激素（ACTH）,adrenocorticotropic hormone,疾病与标志物,80,确定,
+ヒト胎盤性ラクトーゲン（hPL）,人胎盘催乳素（hPL）,human placental lactogen,疾病与标志物,80,确定,
+アルギニンバソプレシン（AVP）,精氨酸加压素（AVP）,arginine vasopressin,疾病与标志物,80,确定,
+甲状腺ホルモン,甲状腺激素,thyroid hormone,疾病与标志物,80,确定,triiodothyronine译“三碘甲状腺原氨酸（T3）”
+副腎皮質ホルモン,肾上腺皮质激素,adrenocortical hormone,疾病与标志物,80,确定,
+TRH,促甲状腺激素释放激素（TRH）,thyrotropin-releasing hormone,疾病与标志物,81,确定,
+ギルマン,吉耶曼（Roger Guillemin）,Roger Guillemin,人名,81,确定,
+シャリー,沙利（Andrew V. Schally）,Andrew V. Schally,人名,81,确定,
+視床下部,下丘脑,hypothalamus,其他,81,确定,
+ハプテン,半抗原,hapten,试剂与分子,81,确定,
+キャリア（ハプテン）,载体蛋白,carrier protein,试剂与分子,81,确定,与“キャリア（病毒携带者）”同形，需区分
+コンジュゲート,偶联物,conjugate,试剂与分子,81,确定,
+キャリア（ウイルス）,病毒携带者,carrier,疾病与标志物,81,确定,与“キャリア（ハプテン）”同形，需区分
+輸血後肝炎,输血后肝炎,post-transfusion hepatitis,疾病与标志物,82,确定,
+HBs抗原,乙肝表面抗原（HBsAg）,hepatitis B surface antigen,疾病与标志物,82,确定,
+ウインドウ・ピリオド,窗口期,window period,检验术语,82,确定,
+NAT試験,核酸检测（NAT）,nucleic acid amplification test,方法与原理,82,确定,原文英文误作Nuclear Amplification Test
+プール,混样（合并检测）,pooling,检验术语,82,确定,
+ヘルパーT細胞,辅助性T细胞,helper T cell,检验术语,83,确定,
+免疫不全症候群（AIDS）,获得性免疫缺陷综合征（AIDS）,acquired immunodeficiency syndrome,疾病与标志物,83,确定,
+成分血液製剤,成分血制品,blood component products,其他,83,确定,
+自家輸血,自体输血,autologous transfusion,其他,83,确定,
+悪性新生物,恶性肿瘤,malignant neoplasm,疾病与标志物,83,确定,
+ベンスジョーンズ蛋白,本周蛋白,Bence Jones protein,疾病与标志物,83,确定,
+絨毛上皮腫,绒毛膜癌,choriocarcinoma,疾病与标志物,83,确定,
+正診率,诊断准确率,diagnostic accuracy,检验术语,83,确定,
+アベレフ,阿贝列夫（Garri I. Abelev）,Garri I. Abelev,人名,83,确定,
+平井、西,平井、西,"Hidematsu Hirai, Shinzo Nishi",人名,83,确定,原文只有姓氏，照原文；全名（平井秀松、西信三）系推定，列入疑点清单。
+宮内庁,宫内厅,Imperial Household Agency,机构与企业,84,确定,
+PSA,前列腺特异性抗原（PSA）,prostate-specific antigen,疾病与标志物,84,确定,
+FDA,美国食品药品监督管理局（FDA）,US Food and Drug Administration,机构与企业,84,确定,
+抗原特異IgE抗体,特异性IgE抗体（sIgE）,allergen-specific IgE,疾病与标志物,85,确定,
+レアギン,反应素,reagin,试剂与分子,85,确定,
+石坂公成,石坂公成,Kimishige Ishizaka,人名,85,确定,与夫人石坂照子共同发现IgE
+アレルゲン,变应原（过敏原）,allergen,疾病与标志物,85,确定,
+肥満細胞,肥大细胞,mast cell,检验术语,85,确定,易误译为“肥胖细胞”
+ヒスタミン,组胺,histamine,试剂与分子,85,确定,
+スギ花粉,日本柳杉花粉,Japanese cedar pollen,疾病与标志物,85,确定,
+RAST法,放射变应原吸附试验（RAST）,radioallergosorbent test,方法与原理,85,确定,
+CAPシステム,ImmunoCAP系统,CAP system,产品名,85,确定,
+蛍光酵素抗体法,荧光酶免疫法（FEIA）,fluorescence enzyme immunoassay,方法与原理,85,确定,
+プラスミン,纤溶酶,plasmin,试剂与分子,85,确定,
+BNP,B型利钠肽（脑钠肽，BNP）,brain natriuretic peptide,疾病与标志物,85,确定,
+寒川賢治,寒川贤治,Kenji Kangawa,人名,85,确定,
+中尾一和,中尾一和,Kazuwa Nakao,人名,85,确定,
+日本医師会臨床検査精度管理調査,日本医师会临床检验质量控制调查（室间质评）,JMA external quality assessment survey,制度与法规,88,确定,通称“医師会サーベイ”，始于1967年
+ISO13485,ISO 13485,ISO 13485,制度与法规,88,确定,医疗器械质量管理体系标准
+査察,现场检查,inspection,制度与法规,88,确定,
+日本臨床検査標準協議会,日本临床检验标准协议会（JCCLS）,Japanese Committee for Clinical Laboratory Standards,机构与企业,89,确定,
+ISO15189,ISO 15189,ISO 15189,制度与法规,89,确定,医学实验室质量和能力认可标准
+再診料,复诊费,revisit fee,制度与法规,90,确定,
+高知医科大学,高知医科大学,Kochi Medical School,机构与企业,91,确定,现高知大学医学部
+佐々木匡秀,佐佐木匡秀,Masahide Sasaki,人名,91,确定,世界首套检验样本传输系统的构建者
+ザ・ベルトラインシステム,The Belt Line System,The Belt Line System,产品名,91,确定,1981年建成，世界首套医院检验样本传输系统
+ラック,样本架,rack,仪器装置,91,确定,
+電子カルテ,电子病历,electronic medical record,其他,92,确定,
+ホストコンピュータ,主机（LIS服务器）,host computer,其他,92,确定,
+シーメンスヘルスケア・ダイアグノスティックス,西门子医学诊断,Siemens Healthcare Diagnostics,机构与企业,92,确定,
+アプティオ,Aptio Automation,Aptio Automation,产品名,93,确定,
+CLIA'88,《临床实验室改进修正案》（CLIA'88）,Clinical Laboratory Improvement Amendments of 1988,制度与法规,93,确定,
+CAP検査室認証プログラム,美国病理学家协会（CAP）实验室认可,CAP Laboratory Accreditation Program,制度与法规,93,确定,
+失敗学,失败学,failure studies,其他,94,确定,
+畑村洋太郎,畑村洋太郎,Yotaro Hatamura,人名,94,确定,
+バイオマーカー,生物标志物,biomarker,疾病与标志物,95,确定,
+項目パネル,检测组合（panel）,test panel,检验术语,95,确定,
+オミクス,组学,omics,方法与原理,96,确定,
+インフォームドコンセント,知情同意,informed consent,制度与法规,96,确定,
+除外診断,排除诊断,rule-out diagnosis,检验术语,96,确定,
+イムノクロマト,免疫层析,immunochromatography,方法与原理,97,确定,
+POCT,即时检验（POCT）,point-of-care testing,检验术语,97,确定,原文英文作Point Of Care，漏了Testing
+プロトロンビン時間（PT）,凝血酶原时间（PT）,prothrombin time,检验术语,97,确定,
+活性型部分トロンボプラスチン時間（APTT）,活化部分凝血活酶时间（APTT）,activated partial thromboplastin time,检验术语,97,确定,
+日本分析機器工業会,日本分析仪器工业会（JAIMA）,Japan Analytical Instruments Manufacturers' Association,机构与企业,98,确定,
+堀場製作所,堀场制作所,HORIBA,机构与企业,98,确定,
+ファイバースコープ,纤维内镜,fiberscope,仪器装置,99,确定,
+パパニコロー染色,巴氏染色,Papanicolaou stain,方法与原理,99,确定,
+細胞診,细胞学检查,cytology,检验术语,99,确定,
+蛍光抗体法,荧光抗体法,fluorescent antibody technique,方法与原理,99,确定,
+酵素抗体法,酶标抗体法,enzyme-labeled antibody method,方法与原理,99,确定,
+P.Lauterbur,劳特伯（Paul Lauterbur）,Paul Lauterbur,人名,99,确定,
+K.F. Mullis,穆利斯（Kary B. Mullis）,Kary B. Mullis,人名,99,确定,原文年表缩写有误，通行写法为Kary B. Mullis
+シータス社,Cetus公司,Cetus Corporation,机构与企业,99,确定,
+Welch Allyn,伟伦,Welch Allyn,机构与企业,99,确定,
+健康保険法,《健康保险法》,Health Insurance Act,制度与法规,100,确定,
+筋電計,肌电图仪,electromyograph,仪器装置,100,确定,
+カプセル内視鏡,胶囊内镜,capsule endoscope,仪器装置,100,确定,
+クルックス管,克鲁克斯管,Crookes tube,仪器装置,100,确定,
+トレッドミル,运动平板（跑步机）,treadmill,仪器装置,100,确定,
+自動DNAシークエンサー,自动DNA测序仪,automated DNA sequencer,仪器装置,100,确定,
+ベクトン・ディッキンソン,碧迪医疗（BD）,"Becton, Dickinson and Company",机构与企业,102,确定,
