@@ -8,10 +8,10 @@
 |---|---|---|
 | `臨床検査技術_中日对照.html` | **主要阅读版本。** 按段落左日右中对照，可切换「对照 / 仅中文 / 仅日文」，手机上自动改为上下排。每张图下附图内文字对照，每张表附中文译表。术语悬停可查看日文原词和英文；正文中的「疑N」标记链接到疑点清单。单文件，可离线打开。 | A 译文正文 |
 | `臨床検査技術_中日对照_打印版.pdf` | 上面这份 HTML 的 A4 横向打印版（313 页）。 | A |
-| `臨床検査技術_zh.pdf` | 保留原版式的纯中文版（103 页）。 | A |
-| `臨床検査技術_dual.pdf` | 保留原版式的双语版，左原文、右中文（103 页）。 | A |
+| `臨床検査技術_zh.pdf` | 保留原版式的纯中文版（正文 103 页 + 文末疑点清单 31 页）。有疑点的段落在页边标有「疑N」，点击可跳到文末清单，清单里点编号或页码可跳回原页。 | A、C |
+| `臨床検査技術_dual.pdf` | 保留原版式的双语版，左原文、右中文（103 页 + 文末疑点清单 31 页），疑点标记和链接同上。 | A、C |
 | `术语与缩写表.csv` | 700 条：日文原词、英文/缩写、中文译名、类别、首次出现位置、出现段落数、首次出现处是否括注、备注。 | B 术语与缩写表 |
-| `QA_report.md` 的 C 节 | 疑点清单 411 条，分为三类：原文疑似错误 225 条、原文歧义或信息不足 88 条、译法说明 98 条。HTML 末尾有同样的清单。 | C 疑点清单 |
+| `QA_report.md` 的 C 节 | 疑点清单 411 条，分为三类：原文疑似错误 225 条、原文歧义或信息不足 88 条、译法说明 98 条。HTML 精读版末尾和两份版式 PDF 末尾也有清单（PDF 只列前两类，共 313 条）。 | C 疑点清单 |
 | `QA_report.md` 的 D 节 | 自检结果：完整性、数字与单位、符号、上标、术语一致性、拉丁名、缩写首次全称、翻译腔、回译抽查、正误表核对、渲染检查，以及人工复核说明。 | D 自检结果 |
 | `glossary.csv` | 翻译时实际使用的术语表（工作版，含已确认的译法决定）。 | — |
 | `work/` | 中间数据和全部脚本：抽取、术语表、翻译、图表、版式、HTML、自检，可以重跑。 | — |
@@ -34,6 +34,6 @@
 - 原文 PDF 及其解密副本：请到国立科学博物馆官网获取原文，用 PyMuPDF 另存一份不加密的副本，放在 `work/source_decrypted.pdf`。
 - 各步骤的运行日志。
 
-处理顺序：`extract.py` → `glossary.py` → `translate.py` / `figures.py` → `polish.py` → `run_babeldoc.py` → `fix_titles.py` → `overlay_figs.py`（位图表格整表替换、示意图加注中文）→ `appendix.py`（附录逐行替换）→ `make_dual.py`（原文页 + 中文页拼成双语版）→ `classify_doubts.py` → `qa.py` → `intro.py` → `build_html.py` → `export_pdf.js`。
+处理顺序：`extract.py` → `glossary.py` → `translate.py` / `figures.py` → `polish.py` → `run_babeldoc.py` → `fix_titles.py` → `overlay_figs.py`（位图表格整表替换、示意图加注中文）→ `appendix.py`（附录逐行替换）→ `make_dual.py`（原文页 + 中文页拼成双语版）→ `add_doubts.py`（页边疑点标记、文末清单和双向链接，同时生成最终的 zh/dual PDF）→ `classify_doubts.py` → `qa.py` → `intro.py` → `build_html.py` → `export_pdf.js`。
 
 图表和附录用到的 Noto Sans CJK SC 完整字体没有放进仓库（约 16MB），可用 fontTools 从系统的 NotoSansCJK-Regular.ttc 导出 SC 字面，保存为 `work/fonts/NotoSansCJKsc-Regular.otf`；仓库里已有按实际用字裁剪的子集。
